@@ -1,9 +1,7 @@
 ## Olá me chamo Eric, sou estudante de programação e tecnologia!
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uEric&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uEriic&repo=convoychat" />
+  ![uEriic GitHub stats](https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&langs_count=8)](https://github.com/uEriic/github-readme-stats)
 </a>
 
 <div style="display: inline_block"><br>
