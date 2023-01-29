@@ -1,7 +1,7 @@
 ## Olá me chamo Eric, sou estudante de programação e tecnologia!
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  ![uEriic GitHub stats](https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&langs_count=8)](https://github.com/uEriic/github-readme-stats)
+<a href="https://discord.com/users/1064162067919163485">
+  <img src: "https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt: "Github Stats de uEriic">
+  <img src: "https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&layout_compact=true&langs_count=16&theme=dracula" alt: "Top Linguagens de uEriic">
 </a>
 
 <div style="display: inline_block"><br>
