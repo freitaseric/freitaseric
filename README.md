@@ -4,7 +4,7 @@
   <img height: "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://discord.com/users/1064162067919163485">
-  <img height: "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&layout_compact=true&langs_count=16&theme=dracula" />
+  <img height: "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&layout-compact=true&langs_count=16&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
