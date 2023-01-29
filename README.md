@@ -4,7 +4,7 @@
   <img height: "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&locale=pt-br" />
 </a>
 <a href="https://discord.com/users/1064162067919163485">
-  <img height: "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&langs_count=16&theme=cobalt&locale=pt-br" />
+  <img height: "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&langs_count=16&layout=compact&theme=cobalt&locale=pt-br" />
 </a>
 
 <div style="display: inline_block"><br>
