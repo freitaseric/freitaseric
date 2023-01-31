@@ -14,7 +14,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/samp.eric/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000015&bar_color=fff700&bar_color_cover=true"/><a/>
+<a href="https://discord.com/users/1064162067919163485" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23E4405F?style=for-the-badge&logo=discord&logoColor=white"</a>
 </div> 
  
 ##
