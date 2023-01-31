@@ -14,7 +14,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/samp.eric/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://discord.com/users/1064162067919163485" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23E4405F?style=for-the-badge&logo=discord&logoColor=white"</a>
+<a href="https://discord.com/users/1064162067919163485" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865f2?style=for-the-badge&logo=discord&logoColor=white"</a>
 </div> 
  
 ##
@@ -31,6 +31,8 @@
 
 ### 📚 -> Estudando neste momento:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+### 🤔 -> Interessado em:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
