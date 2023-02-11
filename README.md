@@ -27,7 +27,6 @@
 ### 🎓 -> Habilidades Segundárias:
  ![Discord](https://img.shields.io/badge/-Discord%20Server-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117)&nbsp;
  ![Aoi.js](https://img.shields.io/badge/-Aoi.js%20Bots%20Discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117)&nbsp;
- ![Inglês](https://img.shields.io/badge/-Intermediary%20English-0D1117?style=for-the-badge&logo=united-states&labelColor=0D1117)&nbsp;
  
 ### ⚒️ -> Ferramentas que eu uso:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
