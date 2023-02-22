@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&count_private=true&title_color=ffd700&icon_color=ffff66&text_color=ffff99&bg_color=000015&border_color=ffd700" alt="Status Github de uEriic" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&layout=compact&title_color=ffff66&text_color=ffff99&bg_color=000015&border_color=ffd700&count_privates=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&layout=compact&title_color=ffff66&text_color=ffff99&bg_color=000015&border_color=ffd700" />
 </div>
 
 <p align="center">
