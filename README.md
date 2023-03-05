@@ -43,12 +43,11 @@
 ##
  
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&cover_image=true&theme=novatorem&show_offline=true&background_color=000015&interchange=true&bar_color=ffd700&bar_color_cover=false" alt="Spotify"></a>
-</div>
- 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{uEriic}/count.svg" /></p> 
 <br></div>
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&cover_image=true&theme=novatorem&show_offline=true&background_color=000015&interchange=true&bar_color=ffd700&bar_color_cover=false" alt="Spotify"></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=footer"/>
