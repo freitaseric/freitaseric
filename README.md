@@ -15,7 +15,7 @@
 <div align="center">  
 <a href="https://www.instagram.com/samp.eric/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://discord.com/users/1064162067919163485" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865f2?style=for-the-badge&logo=discord&logoColor=white"</a>
-</div> 
+</div>
  
 ##
 
@@ -41,7 +41,11 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ##
-
+ 
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&cover_image=true&theme=novatorem&show_offline=true&background_color=000015&interchange=true&bar_color=ffd700&bar_color_cover=false" alt="Spotify"></a>
+</div>
+ 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{uEriic}/count.svg" /></p> 
