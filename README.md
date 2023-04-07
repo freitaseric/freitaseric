@@ -1,6 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a8ff71&height=120&section=header"/>
+
+<p align="center">
+  <a href="https://discord.com/users/1064162067919163485"><img src="https://discord.c99.nl/widget/theme-2/1064162067919163485.png"/></a>
+</p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a8ff71&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Eric+Freitas;Tenho+16+anos;Moro+em+Brasil,+RR;Sou+estudante+de+Engenharia+de+Software.;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+Me chamo [Eric Freitas](https://ericfreitas.vercel.app) e sou um desenvolvedor front-end. Sou de Boa Vista, RR no Brasil
+ 
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Sarala&size=48&duration=3000&pause=30000&color=A8FF71&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Estudante+de+Engenharia+de+Software+%3AD" alt="Typing SVG" /></a>
 
 
 <div align="center">  
