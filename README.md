@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a8ff71&height=120&section=header"/>
 
 <p align="center">
-  <a href="https://discord.com/users/1064162067919163485"><img src="https://discord.c99.nl/widget/theme-2/1064162067919163485.png"/></a>
+  <a href="https://discord.com/users/1064162067919163485"><img src="https://discord.c99.nl/widget/theme-1/1064162067919163485.png"/></a>
 </p>
  
 ### Me chamo [Eric Freitas](https://ericfreitas.vercel.app) e sou um desenvolvedor front-end, moro em Boa Vista, RR no Brasil e possuo 16 anos.
