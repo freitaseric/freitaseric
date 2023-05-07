@@ -37,13 +37,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)
-![SASS-Lang](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)
 
 </div>
 <div align="right">
 
 ### Backend skills:
-![Firebase](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
 ![NPM](https://img.shields.io/badge/NPM-0D1117.svg?style=for-the-badge&logo=npm)
 ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js)
 
@@ -55,6 +54,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117.svg?style=for-the-badge&logo=netlify&logoColor=0078d7)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117.svg?style=for-the-badge&logo=vercel&logoColor=0078d7)
 
 </div>
  
