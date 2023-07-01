@@ -8,7 +8,7 @@
 	programmer. I'm 16 years old and i live in Roraima, Brazil!
 </h2><br>
 
-<div aling="center">
+<div align="center">
 <hr>
 <h3>Main Skills</h3>
 
