@@ -64,8 +64,10 @@
 
 ### **🧱 Backend skills**
 ![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
+![Mongoose](https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge&logo=mongoose)
 ![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm)
 ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
 
 </div>
 <div align="left">
@@ -81,10 +83,7 @@
 <div align="right">
 
 ### **📚 I'm Styding**
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=fe2857)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=android-studio)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
 ![Linux](https://img.shields.io/badge/Linux%20OS-0D1117?style=for-the-badge&logo=linux)
 
 
