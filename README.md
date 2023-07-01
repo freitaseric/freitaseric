@@ -8,6 +8,16 @@
 	programmer. I'm 16 years old and i live in Roraima, Brazil!
 </h2><br>
 
+<div></div>
+<hr>
+<h1 aling="center">Main Skills</h1>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![Discord.js](https://img.shields.io/badge/Discordjs-0D1117?style=for-the-badge&logo=discordjs)
+
+<hr>
+</div>
+
 <div align="center">
 	<a href="https://discord.com/users/1064162067919163485"
 		><img src="https://discord.c99.nl/widget/theme-3/1064162067919163485.png"
