@@ -12,13 +12,11 @@
 <hr>
 <h3>Main Skills</h3>
 
-[![Main Skills](https://skillicons.dev/icons?i=vuejs,ts,mongo)](https://skillicons.dev)
-
-<div align="center">
-	<a href="https://discord.com/users/1064162067919163485"
+<a href="https://discord.com/users/1064162067919163485"
 		><img src="https://discord.c99.nl/widget/theme-3/1064162067919163485.png"
 	/></a>
-</div>
+
+[![Main Skills](https://skillicons.dev/icons?i=vuejs,ts,mongo)](https://skillicons.dev)
 
 <hr>
 </div>
