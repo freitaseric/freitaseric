@@ -12,7 +12,7 @@
 <hr>
 <h3>Main Skills</h3>
 
-[![Main Skills](https://skillicons.dev/icons?i=vuejs,ts,mongo)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=vuejs,ts,mongo,discord,mysql)](https://skillicons.dev)
 
 <hr>
 </div>
