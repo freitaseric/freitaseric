@@ -12,10 +12,6 @@
 <hr>
 <h3>Main Skills</h3>
 
-<a href="https://discord.com/users/1064162067919163485"
-		><img src="https://discord.c99.nl/widget/theme-3/1064162067919163485.png"
-	/></a>
-
 [![Main Skills](https://skillicons.dev/icons?i=vuejs,ts,mongo)](https://skillicons.dev)
 
 <hr>
