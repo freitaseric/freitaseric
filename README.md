@@ -25,74 +25,56 @@
  
 </div>
 
-<h1 align="center">My Stats</h1>
-
 <div align="center">
-	<h3>Github Status</h3>
+	<h2>Github Stats</h2>
 	<img
 		width="49%"
 		height="195px"
-		src="https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&count_private=true&title_color=a8ff71&icon_color=a8ff71&text_color=a8ff71&bg_color=2c3e50&border_color=a8ff71"
-		alt="Status Github de uEriic" />
+		src="https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&count_private=true&theme=transparent" />
 	<img
 		width="41%"
 		height="195px"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&title_color=a8ff71&text_color=a8ff71&bg_color=2c3e50&border_color=a8ff71&layout=compact&count_private=true" />
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&theme=transparent&layout=compact&count_private=true" />
 </div>
 <div align="center">
-	<h3>Github Trophys</h3>
+	<h2>Github Trophys</h2>
 	<img
 		src="https://github-profile-trophy.vercel.app/?username=uEriic&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</div><br>
-
-<h1 align="center">My Skills</h1>
+</div>
 
 <div align="left">
 
 ### **✨ Frontend skills**
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)
 
 </div>
 <div align="right">
 
 ### **🧱 Backend skills**
-![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
-![Mongoose](https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge&logo=mongoose)
-![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm)
-![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
+![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js)
 
 </div>
 <div align="left">
 
 ### **⚙️ Others techs**
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 ![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=0078d7)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=0078d7)
 
 </div>
-<div align="right">
-
-### **📚 I'm Styding**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=android-studio)
-![Linux](https://img.shields.io/badge/Linux%20OS-0D1117?style=for-the-badge&logo=linux)
-
-</div>
-
-![Snake animation](https://github.com/uEriic/uEriic/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">Views on this profile</h2>
 <div align="center">
 	<img align="center" src="https://profile-counter.glitch.me/{uEriic}/count.svg" />
 </div>
 
-<br>
-
 <img
 	width="100%"
-	src="https://capsule-render.vercel.app/api?type=waving&color=100:600000,0:C10000&height=160&section=footer"/>
+	src="https://capsule-render.vercel.app/api?type=waving&color=76:672db2,0:5000ff&height=160&section=footer"/>
