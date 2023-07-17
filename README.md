@@ -55,7 +55,7 @@
 
 ### **🧱 Backend skills**
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
 ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js)
 
 </div>
