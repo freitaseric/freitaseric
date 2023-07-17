@@ -1,22 +1,12 @@
 <img
 	width="100%"
-	src="https://capsule-render.vercel.app/api?type=waving&color=0:600000,100:C10000&height=160&section=header" />
+	src="https://capsule-render.vercel.app/api?type=waving&color=0:5000ff,76:672db2&height=160&section=header" />
 
 <h1>Who am i?</h1>
 <h2 align="center">
 	My name is Eric Freitas and i'm a front-end developer and javascript
 	programmer. I'm 16 years old and i live in Roraima, Brazil!
-</h2><br>
-
-<div align="center">
-<hr>
-<h3>Main Skills</h3>
-
-[![Main Skills](https://skillicons.dev/icons?i=vuejs,ts,mongo,discord,mysql)](https://skillicons.dev)
-
-<hr>
-</div>
-
+</h2>
 <div align="center">
 	<a href="https://discord.com/users/1064162067919163485/" target="_blank"
 		><img
@@ -30,7 +20,10 @@
 		><img
 			src="https://img.shields.io/badge/-LinkedIn-%230a66c2?style=flat&logo=linkedin&logoColor=white"
 	/></a>
-</div><br>
+
+[![Main Skills](https://skillicons.dev/icons?i=nodejs,ts,mongo,vuejs)](https://skillicons.dev)
+ 
+</div>
 
 <h1 align="center">My Stats</h1>
 
@@ -89,8 +82,9 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=android-studio)
 ![Linux](https://img.shields.io/badge/Linux%20OS-0D1117?style=for-the-badge&logo=linux)
 
-
 </div>
+
+![Snake animation](https://github.com/uEriic/uEriic/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">Views on this profile</h2>
 <div align="center">
