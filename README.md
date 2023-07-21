@@ -1,9 +1,11 @@
 <img
 	width="100%"
 	src="https://capsule-render.vercel.app/api?type=waving&color=0:5000ff,76:672db2&height=160&section=header" />
+ 
 <p align="center">
 	
 [![Discord Presence](https://lanyard.cnrad.dev/api/1064162067919163485)](https://discord.com/users/1064162067919163485)
+
 </p>
 
 <h1>Who am i?</h1>
