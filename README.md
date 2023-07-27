@@ -3,8 +3,8 @@
 	src="https://capsule-render.vercel.app/api?type=waving&color=0:5000ff,76:672db2&height=160&section=header" />
  
 <p align="center">
-	
-[![Discord Presence](https://lanyard.cnrad.dev/api/1064162067919163485)](https://discord.com/users/1064162067919163485)
+
+ 	<a href="https://discord.com/users/1064162067919163485"><img src="https://lanyard.cnrad.dev/api/1064162067919163485" /></a>
 
 </p>
 
