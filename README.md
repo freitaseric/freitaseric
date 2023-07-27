@@ -40,7 +40,7 @@
 	<img
 		width="41%"
 		height="195px"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&theme=transparent&layout=compact&count_private=true" />
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&theme=transparent&layout=compact&count_private=true&exclude_repo=Customize%20Stuff" />
 </div>
 <div align="center">
 	<h2>Github Trophys</h2>
