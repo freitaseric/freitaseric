@@ -2,11 +2,7 @@
 	width="100%"
 	src="https://capsule-render.vercel.app/api?type=waving&color=0:5000ff,76:672db2&height=160&section=header" />
  
-<p align="center">
-
- 	<a href="https://discord.com/users/1064162067919163485"><img src="https://lanyard.cnrad.dev/api/1064162067919163485" /></a>
-
-</p>
+ <a align="center" href="https://discord.com/users/1064162067919163485"><img src="https://lanyard.cnrad.dev/api/1064162067919163485" /></a>
 
 <h1>Who am i?</h1>
 <h2 align="center">
