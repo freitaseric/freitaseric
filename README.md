@@ -9,6 +9,7 @@
 	My name is Eric Freitas and i'm a front-end developer and javascript
 	programmer. I'm 16 years old and i live in Roraima, Brazil!
 </h2>
+<p>I'm a beginner fullstack developer with enthusiasm to learn more. I'm venturing into the world of native development.</p>
 <div align="center">
 	<a href="https://discord.com/users/1064162067919163485/" target="_blank"
 		><img
