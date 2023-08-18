@@ -68,7 +68,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 
 </div>
-<div align="right>
+<div align="right">
 	
 ### **📚 Studying**
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
