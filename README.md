@@ -1,15 +1,15 @@
 <img
 	width="100%"
 	src="https://capsule-render.vercel.app/api?type=waving&color=0:5000ff,76:672db2&height=160&section=header" />
- 
- <a align="center" href="https://discord.com/users/1064162067919163485"><img src="https://lanyard.cnrad.dev/api/1064162067919163485" /></a>
 
 <h1>Who am i?</h1>
 <h2 align="center">
 	My name is Eric Freitas and i'm a front-end developer and javascript
 	programmer. I'm 16 years old and i live in Roraima, Brazil!
 </h2>
-<p>I'm a beginner fullstack developer with enthusiasm to learn more. I'm venturing into the world of native development.</p>
+
+<p align="center">I'm a beginner fullstack developer with enthusiasm to learn more. I'm venturing into the world of native development.</p>
+
 <div align="center">
 	<a href="https://discord.com/users/1064162067919163485/" target="_blank"
 		><img
