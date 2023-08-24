@@ -24,7 +24,7 @@
 			src="https://img.shields.io/badge/-LinkedIn-%230a66c2?style=flat&logo=linkedin&logoColor=white"
 	/></a>
 
-[![Main Skills](https://skillicons.dev/icons?i=nodejs,ts,mongo,vuejs)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=nodejs,ts,react,js)](https://skillicons.dev)
  
 </div>
 
