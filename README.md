@@ -48,6 +48,7 @@
 <div align="left">
 
 ### **✨ Frontend skills**
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -67,12 +68,6 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 
-</div>
-<div align="right">
-	
-### **📚 Studying**
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
- 
 </div>
 
 <h2 align="center">Views on this profile</h2>
