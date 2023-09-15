@@ -4,11 +4,8 @@
 
 <h1>Who am i?</h1>
 <h2 align="center">
-	My name is Eric Freitas and i'm a front-end developer and javascript
-	programmer. I'm 16 years old and i live in Roraima, Brazil!
+	Me chamo Eric Freitas, tenho 16 anos e sou de Roraima, Brasil. Estudo para ser programador Typescript e React FullStack
 </h2>
-
-<p align="center">I'm a beginner fullstack developer with enthusiasm to learn more. I'm venturing into the world of native development.</p>
 
 <div align="center">
 	<a href="https://discord.com/users/1064162067919163485/" target="_blank"
@@ -33,11 +30,11 @@
 	<img
 		width="49%"
 		height="195px"
-		src="https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&count_private=true&theme=transparent" />
+		src="https://github-readme-stats.vercel.app/api?username=freitaseric&show_icons=true&count_private=true&theme=transparent" />
 	<img
 		width="41%"
 		height="195px"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&theme=transparent&layout=compact&count_private=true&exclude_repo=Customize%20Stuff" />
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&theme=transparent&layout=compact&count_private=true&exclude_repo=Customize%20Stuff" />
 </div>
 <div align="center">
 	<h2>Github Trophys</h2>
@@ -72,7 +69,7 @@
 
 <h2 align="center">Views on this profile</h2>
 <div align="center">
-	<img align="center" src="https://profile-counter.glitch.me/{uEriic}/count.svg" />
+	<img align="center" src="https://profile-counter.glitch.me/{freitaseric}/count.svg" />
 </div>
 
 <img
