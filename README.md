@@ -2,7 +2,7 @@
 	width="100%"
 	src="https://capsule-render.vercel.app/api?type=waving&color=0:5000ff,76:672db2&height=160&section=header" />
 
-<h1>Who am i?</h1>
+<h1>Quem sou eu?</h1>
 <h2 align="center">
 	Me chamo Eric Freitas, tenho 16 anos e sou de Roraima, Brasil. Estudo para ser programador Typescript e React FullStack
 </h2>
