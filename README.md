@@ -39,7 +39,7 @@
 <div align="center">
 	<h2>Github Trophys</h2>
 	<img
-		src="https://github-profile-trophy.vercel.app/?username=uEriic&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+		src="https://github-profile-trophy.vercel.app/?username=freitaseric&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
 <div align="left">
