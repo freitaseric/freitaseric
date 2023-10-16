@@ -12,7 +12,7 @@
 		><img
 			src="https://img.shields.io/badge/-Discord-%235865f2?style=flat&logo=discord&logoColor=white"
 	/></a>
-	<a href="https://www.instagram.com/samp.eric/" target="_blank"
+	<a href="https://www.instagram.com/_fr.eric_/" target="_blank"
 		><img
 			src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"
 	/></a>
