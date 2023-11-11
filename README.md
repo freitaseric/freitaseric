@@ -4,7 +4,7 @@
 
 <h1>Quem sou eu?</h1>
 <h2 align="center">
-	Me chamo Eric Freitas, tenho 16 anos e sou de Roraima, Brasil. Estudo para ser programador Typescript e React FullStack
+	Me chamo Eric Freitas, tenho 16 anos e sou de Roraima, Brasil.
 </h2>
 
 <div align="center">
@@ -21,7 +21,7 @@
 			src="https://img.shields.io/badge/-LinkedIn-%230a66c2?style=flat&logo=linkedin&logoColor=white"
 	/></a>
 
-[![Main Skills](https://skillicons.dev/icons?i=ts,react,nodejs,js)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=ts,react,nodejs,flutter,dart)](https://skillicons.dev)
  
 </div>
 
@@ -42,31 +42,38 @@
 		src="https://github-profile-trophy.vercel.app/?username=freitaseric&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
-<div align="left">
+<h2 align="center">🌐 Web Skills</h2>
 
-### **✨ Frontend skills**
+### **✨ Frontend**
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-</div>
 <div align="right">
 
-### **🧱 Backend skills**
+### **🧱 Backend**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase)
 
 </div>
-<div align="left">
 
-### **⚙️ Others techs**
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+<h2 align="center">📱 Mobile Skills</h2>
+
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&logoColor=%2344d1fd)
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&logoColor=%2300c4b3)
+
+<h2 align="center">⚙️ Others Skills</h2>
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio)
+
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
-![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu%20Linux-0D1117?style=for-the-badge&logo=ubuntu)
+
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)
 
 </div>
 
