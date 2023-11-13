@@ -1,68 +1,88 @@
 <img
 	width="100%"
-	src="https://capsule-render.vercel.app/api?type=waving&color=0:5000ff,76:672db2&height=160&section=header" />
-
-<h1>Quem sou eu?</h1>
-<h2 align="center">
-	Me chamo Eric Freitas, tenho 16 anos e sou de Roraima, Brasil.
-</h2>
-
+	src="https://capsule-render.vercel.app/api?type=waving&theme=onedark&height=120&section=header&desc=Eric%20Freitas&animation=twinkling&descAlignY=30&descSize=24" />
 <div align="center">
 	<a href="https://discord.com/users/1064162067919163485/" target="_blank"
 		><img
-			src="https://img.shields.io/badge/-Discord-%235865f2?style=flat&logo=discord&logoColor=white"
+			src="https://img.shields.io/badge/-@odeveric-%235865f2?logo=discord&logoColor=white"
 	/></a>
 	<a href="https://www.instagram.com/_fr.eric_/" target="_blank"
 		><img
-			src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"
-	/></a>
-	<a href="https://www.linkedin.com/in/eric-freitas-05581a26b/" target="_blank"
-		><img
-			src="https://img.shields.io/badge/-LinkedIn-%230a66c2?style=flat&logo=linkedin&logoColor=white"
+			src="https://img.shields.io/badge/@__fr.eric__-%23E4405F?logo=instagram&logoColor=white"
 	/></a>
 
-[![Main Skills](https://skillicons.dev/icons?i=ts,react,nodejs,flutter,dart)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=react,ts,nodejs,flutter,dart)](https://skillicons.dev)
  
 </div>
 
 <div align="center">
 	<h2>Github Stats</h2>
-	<img
-		width="49%"
-		height="195px"
-		src="https://github-readme-stats.vercel.app/api?username=freitaseric&show_icons=true&count_private=true&theme=transparent" />
-	<img
-		width="41%"
-		height="195px"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&theme=transparent&layout=compact&count_private=true&exclude_repo=[ReciclaRR]" />
+	<picture>
+    		<source
+      			srcset="https://github-readme-stats.vercel.app/api?username=freitaseric&show_icons=true&theme=onedark"
+      			media="(prefers-color-scheme: dark)"
+			height="195px"
+			width="45%"
+    		/>
+    		<source
+      			srcset="https://github-readme-stats.vercel.app/api?username=freitaseric&show_icons=true&theme=transparent"
+      			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			height="195px"
+			width="45%"
+    		/>
+    		<img 
+			height="195px"
+			width="45%" 
+			src="https://github-readme-stats.vercel.app/api?username=freitaseric&show_icons=true" />
+  	</picture>
+	<picture>
+    		<source
+      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=onedark"
+     			media="(prefers-color-scheme: dark)"
+			height="195px"
+			width="45%"
+    		/>
+    		<source
+      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=transparent"
+      			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			height="195px"
+			width="45%"
+    		/>
+    		<img 
+			height="195px"
+			width="45%" 
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact" />
+  	</picture>
 </div>
 <div align="center">
 	<h2>Github Trophys</h2>
 	<img
-		src="https://github-profile-trophy.vercel.app/?username=freitaseric&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+		src="https://github-profile-trophy.vercel.app/?username=freitaseric&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
 <h2 align="center">🌐 Web Skills</h2>
 
-### **✨ Frontend**
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<div align="right">
 
-### **🧱 Backend**
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express)
 ![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL%20(Sequelize)-0D1117?style=for-the-badge&logo=mysql)
 
+<div align="right">
+	
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 </div>
 
 <h2 align="center">📱 Mobile Skills</h2>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&logoColor=%2344d1fd)
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&logoColor=%2300c4b3)
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase)
 
 <h2 align="center">⚙️ Others Skills</h2>
 
@@ -77,11 +97,6 @@
 
 </div>
 
-<h2 align="center">Views on this profile</h2>
-<div align="center">
-	<img align="center" src="https://profile-counter.glitch.me/{freitaseric}/count.svg" />
-</div>
-
 <img
 	width="100%"
-	src="https://capsule-render.vercel.app/api?type=waving&color=76:672db2,0:5000ff&height=160&section=footer"/>
+	src="https://capsule-render.vercel.app/api?type=waving&theme=onedark&height=120&section=footer" />
