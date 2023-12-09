@@ -11,7 +11,7 @@
 			src="https://img.shields.io/badge/@__fr.eric__-%23E4405F?logo=instagram&logoColor=white"
 	/></a>
 
-[![Main Skills](https://skillicons.dev/icons?i=react,ts,nodejs,flutter,dart)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=react,ts,python,flutter,dart)](https://skillicons.dev)
  
 </div>
 
@@ -75,7 +75,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
+![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=nextjs&labelColor=0D1117)
 </div>
 
 <h2 align="center">📱 Mobile Skills</h2>
