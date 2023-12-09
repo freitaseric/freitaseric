@@ -75,7 +75,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=nextjs&labelColor=0D1117)
+![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)
 </div>
 
 <h2 align="center">📱 Mobile Skills</h2>
