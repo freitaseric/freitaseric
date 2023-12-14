@@ -37,13 +37,13 @@
   	</picture>
 	<picture>
     		<source
-      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=onedark&exclude_repo=tinder-ui,ReactToDoList"
+      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=onedark&exclude_repo=discord-rpc-customizer,ReactToDoList"
      			media="(prefers-color-scheme: dark)"
 			height="195px"
 			width="45%"
     		/>
     		<source
-      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=transparent&exclude_repo=tinder-ui,ReactToDoList"
+      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=transparent&exclude_repo=discord-rpc-customizer,ReactToDoList"
       			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 			height="195px"
 			width="45%"
@@ -51,7 +51,7 @@
     		<img 
 			height="195px"
 			width="45%" 
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&exclude_repo=tinder-ui,ReactToDoList" />
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&exclude_repo=discord-rpc-customizer,ReactToDoList" />
   	</picture>
 </div>
 <div align="center">
