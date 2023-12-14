@@ -62,38 +62,43 @@
 
 <h2 align="center">🌐 Web Skills</h2>
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/-HTML-282c34?style=for-the-badge&logo=html5&labelColor=282c34)
+![CSS](https://img.shields.io/badge/-CSS-282c34?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=282c34)
+![JavaScript](https://img.shields.io/badge/javascript-282c34?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express)
-![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL%20(Sequelize)-0D1117?style=for-the-badge&logo=mysql)
+![Express](https://img.shields.io/badge/Express-282c34?style=for-the-badge&logo=express)
+![NodeJS](https://img.shields.io/badge/Node.js-282c34?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL%20(Sequelize)-282c34?style=for-the-badge&logo=mysql)
 
 <div align="right">
 	
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-282c34?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/-Prisma-282c34?style=for-the-badge&logo=prisma)
+![TypeScript](https://img.shields.io/badge/-TypeScript-282c34?style=for-the-badge&logo=typescript)
+![NextJS](https://img.shields.io/badge/-NextJS-282c34?style=for-the-badge&logo=next.js&labelColor=282c34)
 </div>
 
 <h2 align="center">📱 Mobile Skills</h2>
 
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&logoColor=%2344d1fd)
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&logoColor=%2300c4b3)
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase)
+![Flutter](https://img.shields.io/badge/-Flutter-282c34?style=for-the-badge&logo=flutter&labelColor=282c34&logoColor=%2344d1fd)
+![Dart](https://img.shields.io/badge/-Dart-282c34?style=for-the-badge&logo=dart&labelColor=282c34&logoColor=%2300c4b3)
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-282c34?style=for-the-badge&logo=kotlin)
+![Firebase](https://img.shields.io/badge/-Firebase-282c34?style=for-the-badge&logo=firebase)
 
 <h2 align="center">⚙️ Others Skills</h2>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-282c34?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20Idea-282c34?style=for-the-badge&logo=intellijidea)
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+![Git](https://img.shields.io/badge/-Git-282c34?style=for-the-badge&logo=git&labelColor=282c34)
+![GitHub](https://img.shields.io/badge/-GitHub-282c34?style=for-the-badge&logo=github&labelColor=282c34)
 
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)
+![Windows 11](https://img.shields.io/badge/-Windows%2011-282c34?style=for-the-badge&logo=windows11)
+![Windows 10](https://img.shields.io/badge/-Windows%2010-282c34?style=for-the-badge&logo=windows10)
+
+![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-282c34?style=for-the-badge&logo=pop!_os)
+![Zorin](https://img.shields.io/badge/-Zorin%20OS-282c34?style=for-the-badge&logo=zorin)
 
 </div>
 
