@@ -37,13 +37,13 @@
   	</picture>
 	<picture>
     		<source
-      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=onedark&langs_count=10"
+      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=onedark&exclude_repo=tinder-ui"
      			media="(prefers-color-scheme: dark)"
 			height="195px"
 			width="45%"
     		/>
     		<source
-      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=transparent&langs_count=10"
+      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=transparent&exclude_repo=tinder-ui"
       			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 			height="195px"
 			width="45%"
@@ -51,7 +51,7 @@
     		<img 
 			height="195px"
 			width="45%" 
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&langs_count=10" />
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&exclude_repo=tinder-ui" />
   	</picture>
 </div>
 <div align="center">
