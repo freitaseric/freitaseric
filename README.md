@@ -1,18 +1,17 @@
 <img
 	width="100%"
 	src="https://capsule-render.vercel.app/api?type=waving&theme=onedark&height=120&section=header&desc=Eric%20Freitas&animation=twinkling&descAlignY=30&descSize=24" />
-<div align="center">
-	<a href="https://discord.com/users/1064162067919163485/" target="_blank"
-		><img
-			src="https://img.shields.io/badge/-@odeveloper.eric%235865f2?logo=discord&logoColor=white"
-	/></a>
-	<a href="https://www.instagram.com/_fr.eric_/" target="_blank"
-		><img
-			src="https://img.shields.io/badge/@__fr.eric__-%23E4405F?logo=instagram&logoColor=white"
-	/></a>
 
+### Desenvolvedor Web Fullstack, brasileiro de 16 anos com enormes sonhos e grande força de vontade para conquistá-los.
+
+Possuo conhecimentos avançados em desenvolvimento de interfaces web, mobile e desktop usando diversas tecnologias e desenvolvo apis, clis e módulos com diversas linguagens de programação.
+Entusiasta em **Ciências** e **Inovação** com aptidão para lidar com situações de raciocínio **lógico** e **criativo**.
+
+> Sou familiarizado com ambientes empresariais de larga escala, trabalhando, majoritariamente, com **Windows** porém possuo conhecimento técnico básico em **Linux** e **Segurança Cibernética**.
+
+<div align="center">
+	
 [![Main Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,dart,flutter,python,kotlin)](https://skillicons.dev)
- 
 </div>
 
 <div align="center">
