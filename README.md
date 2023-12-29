@@ -42,7 +42,7 @@ Entusiasta em **Ciências** e **Inovação** com aptidão para lidar com situaç
 			width="45%"
     		/>
     		<source
-      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=transparent
+      			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&theme=transparent"
       			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 			height="195px"
 			width="45%"
