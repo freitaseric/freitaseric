@@ -2,7 +2,7 @@
 	width="100%"
 	src="https://capsule-render.vercel.app/api?type=waving&theme=onedark&height=120&section=header&desc=Eric%20Freitas&animation=twinkling&descAlignY=30&descSize=24" />
 
-### Desenvolvedor Fullstack, brasileiro de 16 anos com enormes sonhos e grande força de vontade para conquistá-los.
+### Desenvolvedor Fullstack, brasileiro de 17 anos com enormes sonhos e grande força de vontade para conquistá-los.
 
 Possuo conhecimentos avançados em desenvolvimento de interfaces web, mobile e desktop usando diversas tecnologias e desenvolvo apis, clis e módulos com diversas linguagens de programação.
 Entusiasta em **Ciências** e **Inovação** com aptidão para lidar com situações de raciocínio **lógico** e **criativo**.
