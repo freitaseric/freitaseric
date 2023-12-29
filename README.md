@@ -7,7 +7,7 @@
 Possuo conhecimentos avançados em desenvolvimento de interfaces web, mobile e desktop usando diversas tecnologias e desenvolvo apis, clis e módulos com diversas linguagens de programação.
 Entusiasta em **Ciências** e **Inovação** com aptidão para lidar com situações de raciocínio **lógico** e **criativo**.
 
-> Sou familiarizado com ambientes empresariais de larga escala, trabalhando, majoritariamente, com **Windows** porém possuo conhecimento técnico básico em **Linux** e **Segurança Cibernética**.
+> Sou familiarizado com ambientes empresariais de larga escala, trabalhando majoritariamente com **Windows** porém possuo conhecimento técnico básico em **Linux** e **Segurança Cibernética**.
 
 <div align="center">
 	
