@@ -52,6 +52,7 @@ Entusiasta em **Ciências** e **Inovação** com aptidão para lidar com situaç
 			width="45%" 
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact" />
   	</picture>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=freitaseric&theme=onedark&hide_border=true&border_radius=8&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
 	<h2>Github Trophys</h2>
