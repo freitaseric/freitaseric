@@ -97,11 +97,10 @@
 
 ###
 
-<div align="center>
+<p align="center>
 	
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jwesu6nuidum2e3hzuhva4ikky&count=5)
-</div>
-
+</p>
 
 ###
 
