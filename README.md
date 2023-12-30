@@ -94,13 +94,9 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<p align="center>
-	
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jwesu6nuidum2e3hzuhva4ikky&count=5)
-</p>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jwesu6nuidum2e3hzuhva4ikky&count=5" alt="Spotify Activity"  />
+</div>
 
 ###
 
