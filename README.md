@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h2 align="left">Olá, meu nome é Eric Freitas.<br>Eu sou um desenvolvedor backend nível pleno/h2>
+<h2 align="left">Olá, meu nome é Eric Freitas.<br>Eu sou um desenvolvedor backend nível pleno</h2>
 
 ###
 
