@@ -101,12 +101,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jwesu6nuidum2e3hzuhva4ikky&count=5" alt="Spotify Activity"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/freitaseric/freitaseric/output/snake.svg" alt="Snake animation" />
