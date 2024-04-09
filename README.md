@@ -2,8 +2,6 @@
   <img height="150" src="https://share.creavite.co/660614a0d28c88b11e60b9fc.gif"  />
 </div>
 
-@unixlab-tech
-
 ###
 
 <br clear="both">
