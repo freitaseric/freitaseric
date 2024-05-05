@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm Eric Freitas from Brazil<br><br>- 🔭 I’m working as IT Technical Internship<br>- 📚 I'm currently learning Rust, GoLang and C#<br>- ⚡ In my free time I play some games, like a ARK: Survival Evolved and Minecraft</p>
+<p align="left">I'm Eric Freitas from Brazil<br><br>- 🔭 I'm working as an IT technician intern<br>- 📚 I'm currently learning Rust, GoLang and C#<br>- ⚡ In my free time I play some games, like a ARK: Survival Evolved and Minecraft</p>
 
 ###
 
