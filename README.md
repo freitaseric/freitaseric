@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm Eric Freitas from Brazil<br><br>- 🔭 I'm working as an IT technician intern<br>- 📚 I'm currently learning Rust, GoLang and C#<br>- ⚡ In my free time I play some games, like a ARK: Survival Evolved and Minecraft</p>
+<p align="left">I'm Eric Freitas from Brazil<br><br>- 🔭 I'm working as an IT technician intern<br>- 📚 I'm currently learning Rust, GoLang and C#<br>- ⚡ In my free time I play some games, like a Minecraft</p>
 
 ###
 
@@ -48,15 +48,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
@@ -70,7 +66,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freitaseric&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2&exclude_repo=GammaCore" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freitaseric&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=freitaseric&locale=en&mode=weekly&theme=rose_pine&hide_border=true&border_radius=8&order=3" height="150" alt="streak graph"  />
 </div>
 
