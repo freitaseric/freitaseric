@@ -7,15 +7,6 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/freitaseric/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCEZJyQ6Ikv6E-mhI_Of-cTA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/odev_eric" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  </a>
   <a href="https://discord.com/users/1064162067919163485" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
@@ -39,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Eric Freitas from Brazil<br><br>- 🔭 I'm working as an IT technician intern<br>- 📚 I'm currently learning Zig, Python and Rust<br>- ⚡ In my free time I play some games, like a Minecraft</p>
+<p align="left">I'm Eric Freitas from Brazil<br><br>- 🔭 I'm working as an IT technician intern<br>- 📚 I'm currently learning Rust and Game Developer<br>- ⚡ In my free time I play some games, like a ARK</p>
 
 ###
 
@@ -48,13 +39,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
