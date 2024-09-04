@@ -1,27 +1,3 @@
-<div align="center">
-  <img height="150" src="https://share.creavite.co/660614a0d28c88b11e60b9fc.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://discord.com/users/1064162067919163485" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=freitaseric.freitaseric&left_color=dimgray&right_color=crimson&left_text=visitantes"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h2 align="center">hey there 👋</h2>
 
 ###
@@ -30,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Eric Freitas from Brazil<br><br>- 🔭 I'm working as an IT technician intern<br>- 📚 I'm currently learning Rust and Game Developer<br>- ⚡ In my free time I play some games, like a ARK</p>
+<p align="left">My name is Eric and i'm from Brazil.<br><br>- 🔭 I'm working as an IT technician intern<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I play some games, like a ARK</p>
 
 ###
 
@@ -42,6 +18,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
 ###
@@ -51,8 +39,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freitaseric&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2&exclude_repo=site-leandro#gh-dark-mode-only" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=freitaseric&locale=en&mode=weekly&theme=synthwave&hide_border=true&border_radius=8&order=3" height="150" alt="streak graph#gh-dark-mode-only"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freitaseric&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&exclude_repo=site-leandro#gh-dark-mode-only" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=freitaseric&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=8&order=3" height="150" alt="streak graph#gh-dark-mode-only"  />
 </div>
 
 ###
