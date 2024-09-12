@@ -32,9 +32,9 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Zig](https://img.shields.io/badge/-Zig-0D1117?style=for-the-badge&logo=zig&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
