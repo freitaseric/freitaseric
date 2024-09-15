@@ -32,7 +32,6 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
