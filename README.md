@@ -14,7 +14,8 @@
 </p>
  
 ### Main skills:
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-0D1117?style=for-the-badge&logo=astro&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
