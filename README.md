@@ -1,37 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eric+Freitas;I'm+17+years+old;I+am+from+Boa+Vista,+RR;I+study+Computer+Science+at+UFRR;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=freitaseric&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eric Freitas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&hide_border=true&exclude_repo=vide-bot-experimental&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-[![Eric Freitas' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=freitaseric&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=freitaseric&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<p align="left">
+  Hi, my name is Eric and I'm a back-and developer in the languages Kotlin, Go and a bit of Python.
+  I'm a Comp Sci major at the Federal University of Roraima.
 </p>
- 
-### Main skills:
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Astro](https://img.shields.io/badge/-Astro-0D1117?style=for-the-badge&logo=astro&labelColor=0D1117)&nbsp;
- 
-### Tools:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![Rust](https://img.shields.io/badge/-rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{freitaseric}/count.svg" /></p> 
-<br></div>
+<p align="left">
+  🦄 Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="24" />
+</p>
 
-<!-- <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/freitaseric/freitaseric/output/snake.svg"  />
-</div> -->
+<p align="left">
+  💼 Tools: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="24" />
+          
+          
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<p align="left">
+  💌 You can find me on: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="E-mail">
+  <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:freitaseric@proton.me" alt="Email"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/eric-freitas-aa442a342" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/fr.eriic/profilecard/?igsh=ejVhdjNqOWRmcWl5" alt="Instagram"/></a>
+</p>
