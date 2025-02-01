@@ -5,15 +5,7 @@
   I'm a Comp Sci major at the Federal University of Roraima.
 </p>
 
-<p align="left">
-  🦄 Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="24" />
-</p>
-
-<p align="left">
-  💼 Tools: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="24" />
-          
-          
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=onedark)
 
 <p align="left">
   💌 You can find me on: ⤵️
