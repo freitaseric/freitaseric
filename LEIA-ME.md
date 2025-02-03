@@ -14,9 +14,9 @@
         -webkit-backdrop-filter: blur(4.5px);
         border: 1px solid rgba(51, 51, 51, 0.5);
     ">
-    <h3>Você é um falante de português?</h3>
+    <h3>Are you an english speaker?</h3>
     <a
-        href="LEIA-ME.md"
+        href="README.md"
         style="
             font-weight: bold;
             color: #eee;
@@ -24,7 +24,7 @@
             border-radius: 8px;
             padding: .5rem;
             text-decoration: none;
-        ">Clique aqui</a>
+        ">Click here</a>
 </div>
 
 <div
@@ -33,8 +33,8 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    width: 100%;"
-  >
+    width: 100%;
+  ">
   <div
     style="
       display: flex;
@@ -43,19 +43,19 @@
       align-items: flex-start;"
     >
     <p>
-      Hi, my name is Eric and I'm a back-and developer in the languages
-      <strong>Kotlin</strong>, <strong>Typescript</strong> and a bit of <strong>Python</strong>.
+      Olá, meu nome é Eric e sou um desenvolvedor back-end nas linguagens
+      <strong>Kotlin</strong>, <strong>Typescript</strong> e um pouco em <strong>Python</strong>.
     </p>
     <p>
-      I'm a <strong>Comp Sci</strong> major at the
-      <strong>Federal University of Roraima</strong>.
+      Sou estudante de <strong>Ciência da Computação</strong> na
+      <strong>Universidade Federal de Roraima</strong>.
     </p>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=onedark"
       alt="Top langs card"
       />
     <p>
-      💌 You can find me on: ⤵️
+      💌 Você pode me encontrar em: ⤵️
     </p>
     <p>
       <a href="#" title="E-mail">
