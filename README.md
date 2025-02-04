@@ -27,3 +27,12 @@ I'm a **Comp Sci** major at the **Federal University of Roraima**
 [![Email](https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:ericfreitas371@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-freitas-aa442a342/)
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white)](https://www.instagram.com/fr.eriic/profilecard/?igsh=ejVhdjNqOWRmcWl5)
+
+<div align="center">
+
+### Most important projects
+
+[![PocketSparks Card](https://github-readme-stats.vercel.app/api/pin/?username=freitaseric&repo=pocketsparks&show_owner=true&theme=onedark)](https://github.com/freitaseric/pocketsparks)
+[![Discord Bot Template Card](https://github-readme-stats.vercel.app/api/pin/?username=freitaseric&repo=discord-bot-typescript&show_owner=true&theme=onedark)](https://github.com/freitaseric/discord-bot-typescript)
+
+</div>
