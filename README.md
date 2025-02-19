@@ -20,7 +20,7 @@ Hi, my name is Eric and I'm a back-and developer in the languages
 I'm a **Comp Sci** major at the **Federal University of Roraima**
 (UFRR).
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=onedark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.6&langs_count=8&layout=compact&theme=onedark)
 
 ### 💌 You can find me on: ⤵️
 
