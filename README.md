@@ -17,8 +17,7 @@ Então [clique aqui](./LEIA-ME.md)!
 Hi, my name is Eric and I'm a back-and developer in the languages
 **Kotlin**, **Typescript** and bit of **Python**.
 
-I'm a **Comp Sci** major at the **Federal University of Roraima**
-(UFRR).
+I'm a student of **Systems Analysis and Development Technology** at the **Federal Institute of Roraima**.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.6&langs_count=8&layout=compact&theme=onedark)
 
