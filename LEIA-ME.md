@@ -32,6 +32,5 @@ Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo *
 ### Projetos mais importantes
 
 [![PocketSparks Card](https://github-readme-stats.vercel.app/api/pin/?username=freitaseric&repo=pocketsparks&show_owner=true&theme=onedark)](https://github.com/freitaseric/pocketsparks)
-[![Discord Bot Template Card](https://github-readme-stats.vercel.app/api/pin/?username=freitaseric&repo=discord-bot-typescript&show_owner=true&theme=onedark)](https://github.com/freitaseric/discord-bot-typescript)
 
 </div>
