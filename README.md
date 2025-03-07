@@ -33,6 +33,5 @@ I'm a **Comp Sci** major at the **Federal University of Roraima**
 ### Most important projects
 
 [![PocketSparks Card](https://github-readme-stats.vercel.app/api/pin/?username=freitaseric&repo=pocketsparks&show_owner=true&theme=onedark)](https://github.com/freitaseric/pocketsparks)
-[![Discord Bot Template Card](https://github-readme-stats.vercel.app/api/pin/?username=freitaseric&repo=discord-bot-typescript&show_owner=true&theme=onedark)](https://github.com/freitaseric/discord-bot-typescript)
 
 </div>
