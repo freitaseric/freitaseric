@@ -17,8 +17,7 @@ So [click here](./README.md)!
 Olá, me chamo Eric e sou desenvolvedor back-end nas seguintes linguagens: **Kotlin**,
 **Typescript** e um pouco de **Python**.
 
-Sou estudante de **Ciência da Computação** na **Universidade Federal de Roraima**
-(UFRR).
+Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal de Roraima** (IFRR).
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=onedark)
 
