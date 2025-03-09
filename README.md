@@ -19,7 +19,7 @@ Hi, my name is Eric and I'm a back-and developer in the languages
 
 I'm a student of **Systems Analysis and Development Technology** at the **Federal Institute of Roraima**.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.6&langs_count=3&layout=compact&theme=onedark&hide=html,css,cmake,scss,javascript)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.6&langs_count=4&layout=compact&theme=onedark&hide=html,css,cmake,scss,javascript)
 
 ### 💌 You can find me on: ⤵️
 
