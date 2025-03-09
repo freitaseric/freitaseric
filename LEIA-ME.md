@@ -15,7 +15,7 @@ So [click here](./README.md)!
 />
 
 Olá, me chamo Eric e sou desenvolvedor back-end nas seguintes linguagens: **Kotlin**,
-**Typescript** e um pouco de **Python**.
+**Typescript** e um pouco de **Zig**.
 
 Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal de Roraima** (IFRR).
 
