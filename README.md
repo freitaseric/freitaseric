@@ -15,7 +15,7 @@ Então [clique aqui](./LEIA-ME.md)!
 />
 
 Hi, my name is Eric and I'm a back-and developer in the languages
-**Kotlin**, **Typescript** and bit of **Python**.
+**Kotlin**, **Typescript** and bit of **Zig**.
 
 I'm a student of **Systems Analysis and Development Technology** at the **Federal Institute of Roraima**.
 
