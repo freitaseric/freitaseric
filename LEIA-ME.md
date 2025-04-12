@@ -19,7 +19,7 @@ Olá, me chamo Eric e sou desenvolvedor back-end nas seguintes linguagens: **Kot
 
 Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal de Roraima** (IFRR).
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.5&langs_count=5&layout=compact&theme=onedark&hide=html,css,cmake,scss,javascript)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.5&langs_count=4&layout=compact&theme=onedark&hide=html,css,cmake,scss,javascript)
 
 ### 💌 Você pode me encontrar em: ⤵️
 
