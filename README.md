@@ -1,3 +1,5 @@
+# Hi, my name is Eric and,
+
 <img
   align="right"
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
@@ -7,12 +9,32 @@
   width="400px"
 />
 
-Hi, my name is Eric and I'm a back-and developer in the languages
-**Go**, **Typescript** and bit of **Zig**.
-
 I'm a student of **Systems Analysis and Development Technology** at the **Federal Institute of Roraima**.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&size_weight=0.5&count_weight=0.6&langs_count=4&layout=compact&theme=onedark)
+I'm a backend developer with these languages:
+
+![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0d1117?style=for-the-badge&logo=kotlin)
+![Typescript Badge](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript)
+
+I'm a frontend developer with these frameworks:
+
+![Astro Badge](https://img.shields.io/badge/-Astro-0d1117?style=for-the-badge&logo=Astro)
+![Next.js Badge](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=nextdotjs)
+
+I'm currently studying these technologies:
+
+![C Badge](https://img.shields.io/badge/-C-0d1117?style=for-the-badge&logo=c)
+![C++ Badge](https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus)
+![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-0d1117?style=for-the-badge&logo=springboot)
+
+<div align="center">
+
+### My stats
+
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=freitaseric&theme=darcula&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&theme=darcula&layout=compact)
+
+</div>
 
 ### 💌 You can find me on: ⤵️
 
