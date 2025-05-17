@@ -27,14 +27,10 @@ I'm currently studying these technologies:
 ![C++ Badge](https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus)
 ![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-0d1117?style=for-the-badge&logo=springboot)
 
-<div align="center">
-
 ### My stats
 
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=freitaseric&theme=darcula&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&theme=darcula&layout=compact)
-
-</div>
 
 ### 💌 You can find me on: ⤵️
 
