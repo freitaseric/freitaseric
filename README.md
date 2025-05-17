@@ -1,4 +1,4 @@
-# Hi, my name is Eric and,
+# Hi, my name is Eric. 👋
 
 <img
   align="right"
