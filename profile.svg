@@ -37,18 +37,17 @@
   </text>
   <text x="490" y="90" fill="#c9d1d9">
     <tspan x="490" y="90">07fael08  ————————————————————————————————</tspan>
-    <tspan x="490" y="110" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Windows, Linux</tspan>
-    <tspan x="490" y="130" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ........................ </tspan><tspan class="value" id="age_data">17 anos</tspan>
-    <tspan x="490" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">VSCode, Neovim</tspan>
-    <tspan x="490" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Python, C#, JS</tspan>
+    <tspan x="490" y="110" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Windows</tspan>
+    <tspan x="490" y="130" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ........................ </tspan><tspan class="value" id="age_data">18 years old</tspan>
+    <tspan x="490" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">VSCode</tspan>
+    <tspan x="490" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Python, TypeScript, Java</tspan>
     <tspan x="490" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">HTML, CSS, JSON</tspan>
     <tspan x="490" y="210" class="cc">. </tspan>
-    <tspan x="490" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Game</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CS2, Mine, CoC, MK1</tspan>
-    <tspan x="490" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Sport</tspan>:<tspan class="cc">  </tspan><tspan class="value">Table Tennis, Basketball</tspan>
+    <tspan x="490" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Games</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Minecraft</tspan>
     <tspan x="490" y="270" class="cc">. </tspan>
     <tspan x="490" y="310">Contatos —————————————————————————————————</tspan>
-    <tspan x="490" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">rafadelima07@gmail.com</tspan>
-    <tspan x="490" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">07Rafael08</tspan>
-    <tspan x="490" y="370" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">07rafael08</tspan>
+    <tspan x="490" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">contato@freitaseric.com</tspan>
+    <tspan x="490" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">freitaseric</tspan>
+    <tspan x="490" y="370" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">odeveric</tspan>
   </text>
 </svg>
