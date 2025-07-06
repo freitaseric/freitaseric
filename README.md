@@ -9,6 +9,12 @@
   width="400px"
 />
 
+<a href="https://github.com/freitaseric/freitaseric">
+  <picture>
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/freitaseric/freitaseric/refs/heads/main/assets/profile.svg">
+  </picture>
+</a>
+
 I'm a student of **Systems Analysis and Development Technology** at the **Federal Institute of Roraima**.
 
 I'm a backend developer with these languages:
