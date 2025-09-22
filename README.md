@@ -1,25 +1,30 @@
-## Eric Freitas
+# Hi there, I'm Eric Freitas! 👋
 
-### Overview
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=freitaseric&show_icons=true&include_all_commits=true&rank_icon=github&hide_title=true&theme=transparent"
-    alt="GitHub stats for freitaseric"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitaseric&layout=compact&hide_title=true&theme=transparent&langs_count=8"
-    alt="Top languages for freitaseric"
-  />
-  
-</div>
+🎓 **Student | Aspiring Innovator**  
+🌍 _"I'm working to innovate the world."_
 
-### Activity
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=freitaseric&theme=github-compact&hide_title=true&area=true"
-    alt="Contribution activity graph for freitaseric"
-  />
-</div>
+---
 
-### Repositories
-Explore the pinned repositories below for selected work.
+## 🛠️ Tech Stack
+- **Languages:** Kotlin, TypeScript
+- **Frameworks/Libraries:** React, Vue
+
+## 🚀 Featured Project
+### [epanel](https://github.com/freitaseric/epanel)
+Take a look at my main project, **epanel**—where I'm pushing boundaries and building for the future!
+
+## 📂 Other Cool Projects
+- [siga-app](https://github.com/freitaseric/siga-app)
+- [chatbot-jr7](https://github.com/freitaseric/chatbot-jr7)
+- [artifice](https://github.com/freitaseric/artifice)
+- [portfolio](https://github.com/freitaseric/portfolio)
+
+## 🌐 Find Me Online
+- 🖥️ [freitaseric.com](https://freitaseric.com)
+
+## 🎮 Fun Fact
+I love games—especially **Minecraft**! If you want to geek out about redstone or talk about your latest build, hit me up!
+
+---
+
+> “Let’s build something amazing together.”
