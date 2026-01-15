@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freitaseric&theme=github_dark"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=freitaseric&theme=monokai"  />
 </div>
 
 ###
