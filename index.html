@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Portfólio digital de desenvolvedor web fullstack com projetos, contribuições open source, sobre e contato."
+    />
+    <title>Eric Freitas | Desenvolvedor Fullstack</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#inicio" aria-label="Ir para o inicio">
+        <span class="brand-mark">EF</span>
+        <span>Eric Freitas</span>
+      </a>
+      <nav class="nav" aria-label="Navegacao principal">
+        <a href="#projetos">Projetos</a>
+        <a href="#open-source">Open source</a>
+        <a href="#sobre">Sobre</a>
+        <a href="#contato">Contato</a>
+      </nav>
+      <a class="header-action" href="mailto:contato@freitaseric.com">Vamos conversar</a>
+    </header>
+
+    <main>
+      <section class="hero" id="inicio">
+        <div class="hero-copy">
+          <p class="eyebrow">Desenvolvedor web fullstack</p>
+          <h1>Construo produtos web confiaveis, claros e prontos para evoluir.</h1>
+          <p class="hero-text">
+            Trabalho do front ao back para transformar ideias em interfaces rapidas,
+            APIs bem desenhadas e experiencias que respeitam o usuario.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#projetos">Ver projetos</a>
+            <a class="button secondary" href="https://github.com/freitaseric" target="_blank" rel="noreferrer">
+              GitHub
+            </a>
+          </div>
+        </div>
+
+        <aside class="hero-panel" aria-label="Resumo tecnico">
+          <div class="status-row">
+            <span class="status-dot"></span>
+            <span>Disponivel para projetos selecionados</span>
+          </div>
+          <div class="metric-grid">
+            <div>
+              <strong>Fullstack</strong>
+              <span>React, Node, APIs e dados</span>
+            </div>
+            <div>
+              <strong>Open source</strong>
+              <span>Issues, PRs e manutencao</span>
+            </div>
+            <div>
+              <strong>Produto</strong>
+              <span>UX, performance e entrega</span>
+            </div>
+            <div>
+              <strong>Qualidade</strong>
+              <span>Testes, revisao e observabilidade</span>
+            </div>
+          </div>
+        </aside>
+      </section>
+
+      <section class="section" id="projetos">
+        <div class="section-heading">
+          <p class="eyebrow">Projetos publicos</p>
+          <h2>Trabalhos que mostram como eu penso, construo e entrego.</h2>
+        </div>
+        <div class="project-grid" id="projectGrid"></div>
+      </section>
+
+      <section class="section split" id="open-source">
+        <div class="section-heading">
+          <p class="eyebrow">Codigo aberto</p>
+          <h2>Contribuicoes, manutencao e aprendizado em publico.</h2>
+        </div>
+        <div class="opensource-panel">
+          <div class="github-search">
+            <label for="githubUser">Usuario do GitHub</label>
+            <div class="input-row">
+              <input id="githubUser" type="text" value="seu-usuario" autocomplete="off" />
+              <button class="button primary compact" id="loadGithub" type="button">Carregar</button>
+            </div>
+          </div>
+          <div class="repo-list" id="repoList" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section class="section about" id="sobre">
+        <div>
+          <p class="eyebrow">Sobre mim</p>
+          <h2>Sou um desenvolvedor que gosta de sistemas simples por fora e bem resolvidos por dentro.</h2>
+        </div>
+        <div class="about-copy">
+          <p>
+            Atuo como fullstack, conectando necessidades de produto, arquitetura de software e experiencia
+            de usuario. Tenho interesse especial por aplicações web, automacao, boas APIs e contribuicoes
+            que tornam projetos mais saudaveis para quem usa e para quem mantem.
+          </p>
+          <p>
+            No dia a dia, valorizo comunicacao clara, codigo legivel, ciclos curtos de entrega e decisoes
+            tecnicas que deixam espaço para o produto crescer.
+          </p>
+          <div class="skill-cloud" aria-label="Principais tecnologias">
+            <span>TypeScript</span>
+            <span>React</span>
+            <span>Bun</span>
+            <span>TanStack Start</span>
+            <span>PostgreSQL</span>
+            <span>APIs REST</span>
+            <span>Testes</span>
+            <span>CI/CD</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="contact" id="contato">
+        <div>
+          <p class="eyebrow">Contato</p>
+          <h2>Tem um projeto, vaga ou colaboracao open source em mente?</h2>
+          <p>Me chame por e-mail ou acompanhe meu trabalho pelos links abaixo.</p>
+        </div>
+        <div class="contact-actions">
+          <a class="button primary" href="mailto:contato@freitaseric.com">contato@freitaseric.com</a>
+          <a class="button secondary" href="https://github.com/freitaseric" target="_blank" rel="noreferrer">
+            GitHub
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>Eric Freitas</span>
+      <span>Desenvolvido com HTML, CSS e JavaScript.</span>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
