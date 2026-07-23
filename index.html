@@ -3,11 +3,24 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
     <meta
       name="description"
-      content="Portfólio digital de desenvolvedor web fullstack com projetos, contribuições open source, sobre e contato."
+      content="Portfólio de Eric Freitas Sampaio, desenvolvedor full stack de aplicações web, mobile e desktop para gestão pública, organizações sociais e comunidades rurais."
     />
-    <title>Eric Freitas | Desenvolvedor Fullstack</title>
+    <meta name="author" content="Eric Freitas Sampaio" />
+    <meta name="theme-color" content="#0b1220" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:title" content="Eric Freitas Sampaio — Desenvolvedor Full Stack" />
+    <meta
+      property="og:description"
+      content="Produtos digitais para gestão pública, organizações sociais e comunidades rurais."
+    />
+    <meta property="og:url" content="https://freitaseric.com" />
+
+    <link rel="canonical" href="https://freitaseric.com" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -15,127 +28,290 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./styles.css" />
+
+    <title>Eric Freitas Sampaio — Desenvolvedor Full Stack</title>
   </head>
+
   <body>
+    <a class="skip-link" href="#conteudo">Ir para o conteúdo principal</a>
+
     <header class="site-header">
-      <a class="brand" href="#inicio" aria-label="Ir para o inicio">
-        <span class="brand-mark">EF</span>
+      <a class="brand" href="#inicio" aria-label="Ir para o início">
+        <span class="brand-mark" aria-hidden="true">EF</span>
         <span>Eric Freitas</span>
       </a>
-      <nav class="nav" aria-label="Navegacao principal">
+
+      <nav class="nav" aria-label="Navegação principal">
         <a href="#projetos">Projetos</a>
-        <a href="#open-source">Open source</a>
+        <a href="#competencias">Competências</a>
         <a href="#sobre">Sobre</a>
         <a href="#contato">Contato</a>
       </nav>
-      <a class="header-action" href="mailto:contato@freitaseric.com">Vamos conversar</a>
+
+      <a class="header-action" href="mailto:contato@freitaseric.com">
+        Entrar em contato
+      </a>
     </header>
 
-    <main>
+    <main id="conteudo">
       <section class="hero" id="inicio">
         <div class="hero-copy">
-          <p class="eyebrow">Desenvolvedor web fullstack</p>
-          <h1>Construo produtos web confiaveis, claros e prontos para evoluir.</h1>
+          <p class="eyebrow">Desenvolvedor full stack</p>
+
+          <h1>
+            Produtos digitais para
+            <span class="accent-text">problemas reais.</span>
+          </h1>
+
           <p class="hero-text">
-            Trabalho do front ao back para transformar ideias em interfaces rapidas,
-            APIs bem desenhadas e experiencias que respeitam o usuario.
+            Construo aplicações web, mobile e desktop para gestão pública,
+            organizações sociais e comunidades rurais.
           </p>
+
           <div class="hero-actions">
-            <a class="button primary" href="#projetos">Ver projetos</a>
-            <a class="button secondary" href="https://github.com/freitaseric" target="_blank" rel="noreferrer">
-              GitHub
+            <a class="button primary" href="#projetos">Conhecer projetos</a>
+            <a class="button secondary" href="mailto:contato@freitaseric.com">
+              Entrar em contato
             </a>
+          </div>
+
+          <div class="hero-meta" aria-label="Informações profissionais">
+            <span>Boa Vista, Roraima</span>
+            <span aria-hidden="true">•</span>
+            <span>TypeScript</span>
+            <span aria-hidden="true">•</span>
+            <span>Web, mobile e backend</span>
           </div>
         </div>
 
-        <aside class="hero-panel" aria-label="Resumo tecnico">
-          <div class="status-row">
-            <span class="status-dot"></span>
-            <span>Disponivel para projetos selecionados</span>
+        <aside class="hero-panel" aria-label="Áreas de atuação">
+          <div class="panel-header">
+            <span class="status-indicator" aria-hidden="true"></span>
+            <span>Software orientado ao contexto</span>
           </div>
-          <div class="metric-grid">
-            <div>
-              <strong>Fullstack</strong>
-              <span>React, Node, APIs e dados</span>
-            </div>
-            <div>
-              <strong>Open source</strong>
-              <span>Issues, PRs e manutencao</span>
-            </div>
-            <div>
-              <strong>Produto</strong>
-              <span>UX, performance e entrega</span>
-            </div>
-            <div>
-              <strong>Qualidade</strong>
-              <span>Testes, revisao e observabilidade</span>
-            </div>
+
+          <div class="focus-list">
+            <article>
+              <span class="focus-number">01</span>
+              <div>
+                <strong>Produtos multiplataforma</strong>
+                <p>Experiências integradas entre web, mobile, desktop e API.</p>
+              </div>
+            </article>
+
+            <article>
+              <span class="focus-number">02</span>
+              <div>
+                <strong>Arquitetura compartilhada</strong>
+                <p>Monorepos, contratos tipados e pacotes internos reutilizáveis.</p>
+              </div>
+            </article>
+
+            <article>
+              <span class="focus-number">03</span>
+              <div>
+                <strong>Domínio de negócio</strong>
+                <p>
+                  Tecnologia aplicada à gestão de associações, projetos e serviços
+                  públicos.
+                </p>
+              </div>
+            </article>
           </div>
         </aside>
       </section>
 
+      <section class="section introduction" id="sobre">
+        <div class="section-heading">
+          <p class="eyebrow">Sobre</p>
+          <h2>Desenvolvimento de software com contexto de negócio.</h2>
+        </div>
+
+        <div class="introduction-copy">
+          <p>
+            Sou Eric Freitas Sampaio, estudante de Análise e Desenvolvimento de
+            Sistemas no IFRR e desenvolvedor de produtos digitais.
+          </p>
+
+          <p>
+            Minha experiência combina desenvolvimento de software com atuação
+            prática em associações, organizações sociais, agricultura familiar,
+            gestão de projetos e serviços públicos.
+          </p>
+
+          <p>
+            Esse contato direto com os usuários e seus processos ajuda a transformar
+            necessidades operacionais em soluções mais adequadas ao ambiente em que
+            serão utilizadas.
+          </p>
+        </div>
+      </section>
+
       <section class="section" id="projetos">
         <div class="section-heading">
-          <p class="eyebrow">Projetos publicos</p>
-          <h2>Trabalhos que mostram como eu penso, construo e entrego.</h2>
+          <p class="eyebrow">Projetos</p>
+          <h2>Produtos construídos a partir de necessidades concretas.</h2>
+          <p>
+            Projetos próprios que conectam engenharia de software, experiência do
+            usuário e conhecimento do domínio.
+          </p>
         </div>
-        <div class="project-grid" id="projectGrid"></div>
-      </section>
 
-      <section class="section split" id="open-source">
-        <div class="section-heading">
-          <p class="eyebrow">Codigo aberto</p>
-          <h2>Contribuicoes, manutencao e aprendizado em publico.</h2>
-        </div>
-        <div class="opensource-panel">
-          <div class="github-search">
-            <label for="githubUser">Usuario do GitHub</label>
-            <div class="input-row">
-              <input id="githubUser" type="text" value="seu-usuario" autocomplete="off" />
-              <button class="button primary compact" id="loadGithub" type="button">Carregar</button>
+        <div class="project-grid">
+          <article class="project-card project-card-featured">
+            <div class="project-topline">
+              <span class="project-status">Em desenvolvimento</span>
+              <span class="project-visibility">Código privado</span>
             </div>
-          </div>
-          <div class="repo-list" id="repoList" aria-live="polite"></div>
+
+            <div class="project-content">
+              <p class="project-index">01</p>
+              <h3>Minha Associação</h3>
+
+              <p>
+                Produto para apoiar a gestão administrativa e operacional de
+                associações e organizações sociais.
+              </p>
+
+              <p>
+                A plataforma está sendo desenvolvida como um monorepo com aplicações
+                web, mobile e API, além de pacotes compartilhados para contratos,
+                interface, configurações e infraestrutura interna.
+              </p>
+            </div>
+
+            <ul class="tag-list" aria-label="Tecnologias do Minha Associação">
+              <li>TypeScript</li>
+              <li>React</li>
+              <li>TanStack Start</li>
+              <li>React Native</li>
+              <li>Expo</li>
+              <li>Fastify</li>
+              <li>PostgreSQL</li>
+              <li>Turborepo</li>
+            </ul>
+
+            <div class="project-note">
+              O código-fonte permanece privado por se tratar de um produto comercial
+              em desenvolvimento.
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-topline">
+              <span class="project-status paused">Temporariamente pausado</span>
+              <span class="project-visibility">Código público</span>
+            </div>
+
+            <div class="project-content">
+              <p class="project-index">02</p>
+              <h3>Proponente Digital</h3>
+
+              <p>
+                Plataforma multiplataforma para gestão de editais, documentos e
+                propostas de organizações sociais e captadores de recursos.
+              </p>
+
+              <p>
+                O projeto possui uma base pública com API, aplicação web e cliente
+                desktop. Deverá ser retomado futuramente sob uma estratégia open
+                core.
+              </p>
+            </div>
+
+            <ul class="tag-list" aria-label="Tecnologias do Proponente Digital">
+              <li>TypeScript</li>
+              <li>React</li>
+              <li>Fastify</li>
+              <li>Tauri</li>
+              <li>PostgreSQL</li>
+              <li>Drizzle ORM</li>
+              <li>Better Auth</li>
+              <li>pnpm</li>
+            </ul>
+
+            <div class="project-links">
+              <a
+                class="text-link"
+                href="https://github.com/freitaseric/proponente-platform"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Ver código no GitHub
+                <span aria-hidden="true">↗</span>
+              </a>
+            </div>
+          </article>
         </div>
       </section>
 
-      <section class="section about" id="sobre">
-        <div>
-          <p class="eyebrow">Sobre mim</p>
-          <h2>Sou um desenvolvedor que gosta de sistemas simples por fora e bem resolvidos por dentro.</h2>
+      <section class="section" id="competencias">
+        <div class="section-heading">
+          <p class="eyebrow">Competências</p>
+          <h2>Tecnologias organizadas por responsabilidade.</h2>
+          <p>
+            Sem porcentagens arbitrárias: estas são as ferramentas presentes no meu
+            trabalho e nos produtos que desenvolvo.
+          </p>
         </div>
-        <div class="about-copy">
-          <p>
-            Atuo como fullstack, conectando necessidades de produto, arquitetura de software e experiencia
-            de usuario. Tenho interesse especial por aplicações web, automacao, boas APIs e contribuicoes
-            que tornam projetos mais saudaveis para quem usa e para quem mantem.
-          </p>
-          <p>
-            No dia a dia, valorizo comunicacao clara, codigo legivel, ciclos curtos de entrega e decisoes
-            tecnicas que deixam espaço para o produto crescer.
-          </p>
-          <div class="skill-cloud" aria-label="Principais tecnologias">
-            <span>TypeScript</span>
-            <span>React</span>
-            <span>Bun</span>
-            <span>TanStack Start</span>
-            <span>PostgreSQL</span>
-            <span>APIs REST</span>
-            <span>Testes</span>
-            <span>CI/CD</span>
-          </div>
+
+        <div class="capability-grid">
+          <article class="capability-card">
+            <span class="capability-index">01</span>
+            <h3>Frontend</h3>
+            <p>
+              React, TanStack Start, TanStack Router, React Native e Expo.
+            </p>
+          </article>
+
+          <article class="capability-card">
+            <span class="capability-index">02</span>
+            <h3>Backend</h3>
+            <p>
+              Node.js, Fastify, PostgreSQL, Drizzle ORM e APIs REST.
+            </p>
+          </article>
+
+          <article class="capability-card">
+            <span class="capability-index">03</span>
+            <h3>Arquitetura</h3>
+            <p>
+              Turborepo, pnpm Workspaces, Tauri, contratos tipados e pacotes
+              compartilhados.
+            </p>
+          </article>
+
+          <article class="capability-card">
+            <span class="capability-index">04</span>
+            <h3>Infraestrutura</h3>
+            <p>
+              Docker, GitHub Actions, Cloudflare R2, EAS Build e servidores Linux.
+            </p>
+          </article>
         </div>
       </section>
 
       <section class="contact" id="contato">
-        <div>
+        <div class="contact-copy">
           <p class="eyebrow">Contato</p>
-          <h2>Tem um projeto, vaga ou colaboracao open source em mente?</h2>
-          <p>Me chame por e-mail ou acompanhe meu trabalho pelos links abaixo.</p>
+          <h2>Tem um problema que pode ser resolvido com software?</h2>
+          <p>
+            Entre em contato para conversar sobre produtos digitais, sistemas
+            internos e projetos de tecnologia.
+          </p>
         </div>
+
         <div class="contact-actions">
-          <a class="button primary" href="mailto:contato@freitaseric.com">contato@freitaseric.com</a>
-          <a class="button secondary" href="https://github.com/freitaseric" target="_blank" rel="noreferrer">
+          <a class="button primary" href="mailto:contato@freitaseric.com">
+            contato@freitaseric.com
+          </a>
+
+          <a
+            class="button secondary"
+            href="https://github.com/freitaseric"
+            target="_blank"
+            rel="noreferrer"
+          >
             GitHub
           </a>
         </div>
@@ -143,10 +319,8 @@
     </main>
 
     <footer class="footer">
-      <span>Eric Freitas</span>
-      <span>Desenvolvido com HTML, CSS e JavaScript.</span>
+      <span>© 2026 Eric Freitas Sampaio</span>
+      <span>Desenvolvido com HTML e CSS.</span>
     </footer>
-
-    <script src="./script.js"></script>
   </body>
 </html>
