@@ -11,13 +11,23 @@ Desenvolvo aplicações web, mobile e desktop utilizando principalmente TypeScri
 - Experiência prática com associações, organizações sociais, agricultura familiar e gestão de projetos.
 - Interesse em arquitetura de software, experiência do usuário, automação e desenvolvimento de produtos.
 
-## Projeto em destaque
+## Projetos
+
+### Minha Associação
+
+Produto em desenvolvimento para apoiar a gestão administrativa e operacional de associações e organizações sociais.
+
+A plataforma está sendo construída como um monorepo com aplicações web, mobile e API, além de pacotes compartilhados para contratos, componentes de interface, configurações e infraestrutura interna.
+
+O código-fonte permanece privado por se tratar de um produto comercial em desenvolvimento.
+
+**Principais tecnologias:** TypeScript, React, TanStack Start, React Native, Expo, Fastify, PostgreSQL, Turborepo e pnpm.
 
 ### [Proponente Digital](https://github.com/freitaseric/proponente-platform)
 
-Plataforma para organizar documentos, editais, oportunidades e propostas de associações, organizações sociais e captadores de recursos.
+Plataforma multiplataforma para gestão de editais, documentos e propostas de organizações sociais e captadores de recursos.
 
-O projeto utiliza uma arquitetura monorepo com aplicações web, desktop e API, além de contratos e configurações compartilhadas.
+O projeto possui uma base pública com API, aplicação web e cliente desktop. Seu desenvolvimento está temporariamente pausado e deverá ser retomado sob uma estratégia open core.
 
 **Principais tecnologias:** TypeScript, React, Fastify, TanStack, Tauri, PostgreSQL, Drizzle ORM, Better Auth, Turborepo e pnpm.
 
