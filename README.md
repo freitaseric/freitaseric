@@ -38,7 +38,7 @@ Para importar novamente os textos iniciais de forma idempotente, autentique o Sa
 npm run sanity:seed
 ```
 
-O comando cria ou substitui somente os quatro documentos de `sanity/seed/portfolio.ndjson`: as informações do site, FUNDERR, Minha Associação e Proponente Digital.
+O comando cria ou substitui somente os dois documentos de `sanity/seed/portfolio.ndjson`: as informações do site e o FUNDERR.
 
 O frontend usa conteúdo do Sanity quando disponível e mantém o fallback caso o CMS esteja indisponível.
 
