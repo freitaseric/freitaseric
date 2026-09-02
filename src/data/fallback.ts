@@ -78,46 +78,4 @@ export const fallbackProjects: Project[] = [
     technologies: ["Aplicação web", "Banco de dados", "Automação de processos"],
     featured: true,
   },
-  {
-    _id: "minha-associacao",
-    title: "Minha Associação",
-    slug: "minha-associacao",
-    eyebrow: "Produto próprio",
-    summary:
-      "Plataforma para gestão administrativa e relacionamento com membros de associações e organizações sociais.",
-    year: 2026,
-    status: "Em desenvolvimento",
-    context:
-      "Associações frequentemente operam com informações espalhadas entre papel, planilhas e aplicativos de mensagem.",
-    problem:
-      "Organizar rotinas administrativas e oferecer ao associado uma experiência digital simples sem transformar a gestão em um sistema excessivamente burocrático.",
-    solution:
-      "Produto multiplataforma com área de gestão e experiência voltada ao membro, estruturado para múltiplas associações e diferentes papéis organizacionais.",
-    role: "Produto, arquitetura, experiência do usuário e desenvolvimento.",
-    highlights: [
-      "Gestão multiassociação",
-      "Experiência mobile para membros",
-      "Domínio orientado à rotina de OSCs",
-    ],
-    technologies: ["TypeScript", "React Native", "Fastify", "PostgreSQL"],
-  },
-  {
-    _id: "proponente-digital",
-    title: "Proponente Digital",
-    slug: "proponente-digital",
-    eyebrow: "Produto próprio",
-    summary:
-      "Ferramenta para organizar editais, documentos e propostas de organizações sociais e profissionais de captação de recursos.",
-    year: 2026,
-    status: "Pausado",
-    context:
-      "A preparação de propostas exige acompanhar oportunidades, documentos institucionais, prazos e versões de projetos em paralelo.",
-    problem:
-      "Reduzir a fragmentação das informações e dar visibilidade ao estado de cada proposta.",
-    solution:
-      "Uma plataforma de trabalho para centralizar oportunidades, documentos e propostas em um fluxo único.",
-    role: "Produto, arquitetura e desenvolvimento.",
-    highlights: ["Gestão de oportunidades", "Documentação institucional", "Fluxo de propostas"],
-    technologies: ["TypeScript", "React", "Fastify", "Tauri", "PostgreSQL"],
-  },
 ];
