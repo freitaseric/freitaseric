@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import ProjectCard from "../../components/ProjectCard.astro";
+import LiveContent from "../../components/LiveContent.astro";
+import { getProjects } from "../../lib/content";
+const projects = await getProjects();
+---
+<BaseLayout title="Projetos — Eric Freitas" description="Projetos e estudos de caso de Eric Freitas em GovTech e produtos digitais.">
+  <Header active="projetos" />
+  <main id="conteudo">
+    <header class="page-hero shell">
+      <p class="overline">Projetos</p>
+      <h1>Software apresentado pelo problema que resolve.</h1>
+      <p>Projetos públicos, privados e internos. Cada caso registra contexto, abordagem e responsabilidade — independentemente de haver repositório aberto.</p>
+    </header>
+    <section class="section section-rule shell">
+      <div class="project-list project-list-all" data-live-projects>
+        {projects.map((project, index) => <ProjectCard project={project} featured={index === 0 && project.featured} />)}
+      </div>
+    </section>
+  </main>
+  <Footer />
+  <LiveContent />
+</BaseLayout>

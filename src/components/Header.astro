@@ -1,0 +1,21 @@
+---
+interface Props { active?: "inicio" | "projetos" | "sobre" }
+const { active = "inicio" } = Astro.props;
+---
+<header class="site-header">
+  <div class="shell header-inner">
+    <a class="brand" href="/" aria-label="Eric Freitas — início">
+      <span class="brand-mark" aria-hidden="true">EF</span>
+      <span class="brand-copy">
+        <strong>Eric Freitas</strong>
+        <small>GovTech</small>
+      </span>
+    </a>
+    <nav class="nav" aria-label="Navegação principal">
+      <a class:list={[active === "inicio" && "is-active"]} href="/">Início</a>
+      <a class:list={[active === "projetos" && "is-active"]} href="/projetos/">Projetos</a>
+      <a class:list={[active === "sobre" && "is-active"]} href="/sobre/">Sobre</a>
+    </nav>
+    <a class="header-contact" href="mailto:contato@freitaseric.com">Contato</a>
+  </div>
+</header>

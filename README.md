@@ -1,47 +1,48 @@
-# Eric Freitas Sampaio
+# Eric Freitas — Portfólio GovTech
 
-Desenvolvedor full stack focado na construção de produtos digitais para gestão pública, organizações sociais e comunidades rurais.
+Portfólio pessoal de Eric Freitas, com foco profissional em **GovTech** e apresentação de projetos como estudos de caso.
 
-Desenvolvo aplicações web, mobile e desktop utilizando principalmente TypeScript. Meus projetos partem de problemas reais relacionados à gestão de organizações, captação de recursos, serviços públicos e desenvolvimento rural.
+## Stack
 
-## Sobre mim
+- Astro
+- Sanity Studio (CMS em `/admin`)
+- GitHub Pages
+- IBM Plex Sans / IBM Plex Mono
 
-- Cursando Análise e Desenvolvimento de Sistemas no IFRR.
-- Construindo produtos multiplataforma com React, React Native, Node.js e Tauri.
-- Experiência prática com associações, organizações sociais, agricultura familiar e gestão de projetos.
-- Interesse em arquitetura de software, experiência do usuário, automação e desenvolvimento de produtos.
+## Desenvolvimento
 
-## Projetos
+```bash
+npm install
+npm run dev
+```
 
-### Minha Associação
+Sem variáveis de ambiente, o site usa o conteúdo de fallback em `src/data/fallback.ts`.
 
-Produto em desenvolvimento para apoiar a gestão administrativa e operacional de associações e organizações sociais.
+## Ativar o CMS
 
-A plataforma está sendo construída como um monorepo com aplicações web, mobile e API, além de pacotes compartilhados para contratos, componentes de interface, configurações e infraestrutura interna.
+1. Crie um projeto no Sanity e um dataset público `production`.
+2. Adicione `http://localhost:4321` e `https://freitaseric.com` nas origens CORS do projeto, permitindo credenciais para o Studio.
+3. No GitHub, crie as Repository Variables:
+   - `PUBLIC_SANITY_PROJECT_ID`
+   - `PUBLIC_SANITY_DATASET` = `production`
+4. Para desenvolvimento local, copie `.env.example` para `.env` e informe o mesmo project ID.
+5. Abra `/admin/`, faça login no Sanity e publique `Informações do site` e os projetos.
 
-O código-fonte permanece privado por se tratar de um produto comercial em desenvolvimento.
+O frontend usa conteúdo do Sanity quando disponível e mantém o fallback caso o CMS esteja indisponível.
 
-**Principais tecnologias:** TypeScript, React, TanStack Start, React Native, Expo, Fastify, PostgreSQL, Turborepo e pnpm.
+## Publicação
 
-### [Proponente Digital](https://github.com/freitaseric/proponente-platform)
+O workflow `.github/workflows/deploy.yml` publica o Astro no GitHub Pages quando há push em `main`, manualmente e uma vez ao dia. O build diário garante que alterações publicadas no CMS sejam incorporadas ao HTML estático para SEO.
 
-Plataforma multiplataforma para gestão de editais, documentos e propostas de organizações sociais e captadores de recursos.
+## Conteúdo
 
-O projeto possui uma base pública com API, aplicação web e cliente desktop. Seu desenvolvimento está temporariamente pausado e deverá ser retomado sob uma estratégia open core.
+Cada projeto pode ter:
 
-**Principais tecnologias:** TypeScript, React, Fastify, TanStack, Tauri, PostgreSQL, Drizzle ORM, Better Auth, Turborepo e pnpm.
+- nome, resumo, ano e status;
+- contexto, problema e solução;
+- descrição da atuação;
+- tecnologias/capacidades;
+- imagem de capa e galeria;
+- destaque e ordenação.
 
-## Tecnologias
-
-**Frontend:** React, TanStack Start, TanStack Router, React Native e Expo.
-
-**Backend:** Node.js, Fastify, PostgreSQL, Drizzle ORM e APIs REST.
-
-**Aplicações e arquitetura:** Tauri, Turborepo, pnpm Workspaces e pacotes compartilhados.
-
-**Infraestrutura e qualidade:** Docker, GitHub Actions, Biome e Cloudflare R2.
-
-## Contato
-
-- Site: [freitaseric.com](https://freitaseric.com)
-- E-mail: [contato@freitaseric.com](mailto:contato@freitaseric.com)
+Projetos não precisam de repositório ou URL pública.

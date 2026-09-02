@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { getSiteSettings } from "../lib/content";
+const settings = await getSiteSettings();
+---
+<BaseLayout title="Sobre — Eric Freitas">
+  <Header active="sobre" />
+  <main id="conteudo">
+    <header class="page-hero shell">
+      <p class="overline">Sobre</p>
+      <h1>{settings.aboutTitle}</h1>
+    </header>
+    <section class="section section-rule shell about-page-grid">
+      <div class="about-statement"><p>{settings.aboutBody}</p></div>
+      <div class="about-details">
+        <section><p class="overline">Foco</p><h2>GovTech</h2><p>Meu interesse está em produtos que melhoram o funcionamento de serviços e processos públicos — especialmente onde regras de negócio, dados e operação precisam conversar.</p></section>
+        <section><p class="overline">Formação</p><h2>ADS · IFRR</h2><p>Curso Análise e Desenvolvimento de Sistemas, combinando a formação técnica com problemas que encontro no ambiente profissional.</p></section>
+        <section><p class="overline">Engenharia</p><h2>Ferramentas mudam. O problema vem primeiro.</h2><p>Trabalho com desenvolvimento web, APIs, bancos de dados, aplicações multiplataforma e automação. A stack é consequência do produto, não a identidade profissional.</p></section>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</BaseLayout>

@@ -1,0 +1,89 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import ProjectVisual from "../../components/ProjectVisual.astro";
+import { fallbackProjects } from "../../data/fallback";
+import { imageUrl, sanityDataset, sanityProjectId } from "../../lib/sanity";
+
+const fallback = fallbackProjects[0];
+const cover = imageUrl(fallback.coverImage);
+const cmsConfig = { projectId: sanityProjectId, dataset: sanityDataset };
+---
+<BaseLayout title={`${fallback.title} — Eric Freitas`} description={fallback.summary}>
+  <Header active="projetos" />
+  <main id="conteudo" data-project-page>
+    <header class="case-hero shell">
+      <a class="back-link" href="/projetos/">← Todos os projetos</a>
+      <div class="case-heading">
+        <div>
+          <p class="overline" data-project="eyebrow">{fallback.eyebrow}</p>
+          <h1 data-project="title">{fallback.title}</h1>
+        </div>
+        <div class="case-summary">
+          <p data-project="summary">{fallback.summary}</p>
+          <dl>
+            <div><dt>Status</dt><dd data-project="status">{fallback.status}</dd></div>
+            <div><dt>Ano</dt><dd data-project="year">{fallback.year}</dd></div>
+          </dl>
+        </div>
+      </div>
+    </header>
+
+    <section class="case-media shell" data-project-cover>
+      {cover ? <img src={cover} alt={fallback.coverImage?.alt || fallback.title} /> : <ProjectVisual label={fallback.title} />}
+    </section>
+
+    <section class="case-content shell">
+      <aside class="case-index" aria-label="Seções do caso">
+        <a href="#contexto">Contexto</a><a href="#problema">Problema</a><a href="#solucao">Solução</a><a href="#atuacao">Minha atuação</a>
+      </aside>
+      <div class="case-sections">
+        <section id="contexto"><p class="overline">01 · Contexto</p><h2>Entender onde o produto entra.</h2><p data-project="context">{fallback.context}</p></section>
+        <section id="problema"><p class="overline">02 · Problema</p><h2>O que precisava mudar.</h2><p data-project="problem">{fallback.problem}</p></section>
+        <section id="solucao"><p class="overline">03 · Solução</p><h2>Como o problema foi traduzido em produto.</h2><p data-project="solution">{fallback.solution}</p><ul class="highlight-list" data-project-list="highlights">{fallback.highlights.map((item) => <li>{item}</li>)}</ul></section>
+        <section id="atuacao"><p class="overline">04 · Minha atuação</p><h2>Responsabilidade no projeto.</h2><p data-project="role">{fallback.role}</p><div class="tag-row" data-project-list="technologies">{fallback.technologies.map((item) => <span>{item}</span>)}</div></section>
+        <section class="gallery-section" data-project-gallery hidden><p class="overline">Galeria</p><div class="gallery-grid"></div></section>
+      </div>
+    </section>
+  </main>
+  <Footer />
+  <script define:vars={{ cmsConfig }}>
+    const config = cmsConfig;
+    const slug = new URLSearchParams(window.location.search).get("slug") || "funderr";
+    if (config.projectId) {
+      const query = encodeURIComponent(`*[_type == "project" && slug.current == $slug][0]{title,"slug":slug.current,eyebrow,summary,year,status,context,problem,solution,role,highlights,technologies,coverImage{asset->{url},alt},gallery[]{asset->{url},alt,caption}}`);
+      const url = `https://${config.projectId}.api.sanity.io/v2026-09-01/data/query/${config.dataset}?query=${query}&$slug=${encodeURIComponent(JSON.stringify(slug))}`;
+      fetch(url).then((r) => r.ok ? r.json() : null).then((payload) => {
+        const p = payload?.result;
+        if (!p) return;
+        document.title = `${p.title} — Eric Freitas`;
+        for (const key of ["title","eyebrow","summary","status","year","context","problem","solution","role"]) {
+          const node = document.querySelector(`[data-project="${key}"]`);
+          if (node && p[key] != null) node.textContent = String(p[key]);
+        }
+        for (const key of ["highlights","technologies"]) {
+          const node = document.querySelector(`[data-project-list="${key}"]`);
+          if (!node || !Array.isArray(p[key])) continue;
+          node.innerHTML = "";
+          p[key].forEach((value) => {
+            const el = document.createElement(key === "highlights" ? "li" : "span");
+            el.textContent = value;
+            node.appendChild(el);
+          });
+        }
+        if (p.coverImage?.asset?.url) {
+          document.querySelector("[data-project-cover]").innerHTML = `<img src="${p.coverImage.asset.url}?auto=format&w=1800" alt="${p.coverImage.alt || p.title}">`;
+        }
+        if (Array.isArray(p.gallery) && p.gallery.length) {
+          const section = document.querySelector("[data-project-gallery]");
+          const grid = section?.querySelector(".gallery-grid");
+          if (section && grid) {
+            section.hidden = false;
+            grid.innerHTML = p.gallery.map((img) => `<figure><img loading="lazy" src="${img.asset?.url}?auto=format&w=1400" alt="${img.alt || p.title}">${img.caption ? `<figcaption>${img.caption}</figcaption>` : ""}</figure>`).join("");
+          }
+        }
+      }).catch(() => {});
+    }
+  </script>
+</BaseLayout>
