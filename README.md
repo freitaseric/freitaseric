@@ -28,6 +28,18 @@ Sem variáveis de ambiente, o site usa o conteúdo de fallback em `src/data/fall
 4. Para desenvolvimento local, copie `.env.example` para `.env` e informe o mesmo project ID.
 5. Abra `/admin/`, faça login no Sanity e publique `Informações do site` e os projetos.
 
+### Conteúdo inicial
+
+O Studio trata `Informações do site` como um documento único e organiza o conteúdo em `Geral` e `Portfólio`.
+
+Para importar novamente os textos iniciais de forma idempotente, autentique o Sanity CLI e execute:
+
+```bash
+npm run sanity:seed
+```
+
+O comando cria ou substitui somente os quatro documentos de `sanity/seed/portfolio.ndjson`: as informações do site, FUNDERR, Minha Associação e Proponente Digital.
+
 O frontend usa conteúdo do Sanity quando disponível e mantém o fallback caso o CMS esteja indisponível.
 
 ## Publicação
