@@ -9,6 +9,7 @@ const dataset = import.meta.env.PUBLIC_SANITY_DATASET || "production";
 export default defineConfig({
   name: "portfolio",
   title: "Portfólio — Eric Freitas",
+  basePath: "/admin",
   projectId,
   dataset,
   plugins: [structureTool({ structure: portfolioStructure })],
