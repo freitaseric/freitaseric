@@ -1,0 +1,27 @@
+---
+interface Props {
+  label?: string;
+  compact?: boolean;
+}
+const { label = "Produto digital", compact = false } = Astro.props;
+---
+<div class:list={["product-visual", compact && "is-compact"]} aria-label={`Ilustração de interface — ${label}`} role="img">
+  <div class="visual-bar">
+    <span></span><span></span><span></span>
+    <small>{label}</small>
+  </div>
+  <div class="visual-body">
+    <aside>
+      <i></i><i></i><i></i><i></i>
+    </aside>
+    <div class="visual-main">
+      <div class="visual-title"></div>
+      <div class="visual-metrics">
+        <b></b><b></b><b></b>
+      </div>
+      <div class="visual-table">
+        <span></span><span></span><span></span><span></span><span></span>
+      </div>
+    </div>
+  </div>
+</div>

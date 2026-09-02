@@ -1,0 +1,27 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PortfolioStudio from "../../components/Studio";
+import { sanityDataset, sanityEnabled, sanityProjectId } from "../../lib/sanity";
+---
+<BaseLayout title="Administrar portfólio — Eric Freitas">
+  {sanityEnabled ? (
+    <div class="studio-shell"><PortfolioStudio client:only="react" /></div>
+  ) : (
+    <main class="admin-setup">
+      <div class="admin-card">
+        <p class="overline">CMS</p>
+        <h1>Painel pronto para ser conectado.</h1>
+        <p>O site já possui os schemas e a interface de administração. Falta apenas informar o ID do seu projeto Sanity.</p>
+        <ol>
+          <li>Crie um projeto gratuito no Sanity.</li>
+          <li>Use o dataset público <code>{sanityDataset}</code>.</li>
+          <li>Adicione <code>https://freitaseric.com</code> às origens CORS com credenciais.</li>
+          <li>No GitHub, defina a variável <code>PUBLIC_SANITY_PROJECT_ID</code>.</li>
+          <li>Execute novamente o deploy.</li>
+        </ol>
+        <p class="admin-note">Project ID atual: <code>{sanityProjectId || "não configurado"}</code></p>
+        <a class="button button-primary" href="/">Voltar ao site</a>
+      </div>
+    </main>
+  )}
+</BaseLayout>

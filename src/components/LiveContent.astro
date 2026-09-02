@@ -1,0 +1,37 @@
+---
+import { sanityDataset, sanityProjectId } from "../lib/sanity";
+const cmsConfig = { projectId: sanityProjectId, dataset: sanityDataset };
+---
+<script define:vars={{ cmsConfig }}>
+  const config = cmsConfig;
+  if (config.projectId) {
+    const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;" })[char]);
+    const query = encodeURIComponent(`{
+      "settings": *[_type == "siteSettings"][0]{name,role,heroTitle,heroBody,location,email,aboutTitle,aboutBody},
+      "projects": *[_type == "project" && defined(slug.current)] | order(featured desc, year desc, order asc){_id,title,"slug":slug.current,eyebrow,summary,year,status,featured,coverImage{asset->{url},alt}}
+    }`);
+    const url = `https://${config.projectId}.api.sanity.io/v2026-09-01/data/query/${config.dataset}?query=${query}`;
+    fetch(url).then((r) => r.ok ? r.json() : null).then((payload) => {
+      const result = payload?.result;
+      if (!result) return;
+      if (result.settings) {
+        Object.entries(result.settings).forEach(([key, value]) => {
+          if (value == null) return;
+          document.querySelectorAll(`[data-cms="${key}"]`).forEach((node) => node.textContent = String(value));
+        });
+      }
+      document.querySelectorAll("[data-live-projects]").forEach((container) => {
+        const limit = Number(container.getAttribute("data-live-limit") || 0);
+        const list = limit ? result.projects.slice(0, limit) : result.projects;
+        if (!list.length) return;
+        container.innerHTML = list.map((project, index) => {
+          const featured = project.featured && index === 0;
+          const image = project.coverImage?.asset?.url
+            ? `<img src="${escapeHtml(project.coverImage.asset.url)}?auto=format&w=${featured ? 1600 : 1000}" alt="${escapeHtml(project.coverImage.alt || project.title)}" loading="lazy">`
+            : `<div class="product-visual ${featured ? "" : "is-compact"}" role="img" aria-label="Ilustração de interface — ${escapeHtml(project.title)}"><div class="visual-bar"><span></span><span></span><span></span><small>${escapeHtml(project.title)}</small></div><div class="visual-body"><aside><i></i><i></i><i></i><i></i></aside><div class="visual-main"><div class="visual-title"></div><div class="visual-metrics"><b></b><b></b><b></b></div><div class="visual-table"><span></span><span></span><span></span><span></span><span></span></div></div></div></div>`;
+          return `<article class="project-card ${featured ? "is-featured" : ""}"><a class="project-card-link" href="/projeto/?slug=${encodeURIComponent(project.slug)}" aria-label="Ver projeto ${escapeHtml(project.title)}"></a><div class="project-card-copy"><div class="project-meta-row"><span class="overline">${escapeHtml(project.eyebrow || "Projeto")}</span><span class="status">${escapeHtml(project.status || "")}</span></div><h3>${escapeHtml(project.title)}</h3><p>${escapeHtml(project.summary || "")}</p><div class="project-card-footer"><span>${escapeHtml(project.year || "")}</span><span>Conhecer o caso <span aria-hidden="true">→</span></span></div></div><div class="project-card-media">${image}</div></article>`;
+        }).join("");
+      });
+    }).catch(() => {});
+  }
+</script>

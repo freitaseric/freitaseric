@@ -1,0 +1,27 @@
+---
+import type { Project } from "../data/fallback";
+import { imageUrl } from "../lib/sanity";
+import ProjectVisual from "./ProjectVisual.astro";
+
+interface Props { project: Project; featured?: boolean }
+const { project, featured = false } = Astro.props;
+const cover = imageUrl(project.coverImage, featured ? 1600 : 1000);
+---
+<article class:list={["project-card", featured && "is-featured"]} data-project-card data-slug={project.slug}>
+  <a class="project-card-link" href={`/projeto/?slug=${project.slug}`} aria-label={`Ver projeto ${project.title}`}></a>
+  <div class="project-card-copy">
+    <div class="project-meta-row">
+      <span class="overline">{project.eyebrow}</span>
+      <span class="status">{project.status}</span>
+    </div>
+    <h3>{project.title}</h3>
+    <p>{project.summary}</p>
+    <div class="project-card-footer">
+      <span>{project.year}</span>
+      <span>Conhecer o caso <span aria-hidden="true">→</span></span>
+    </div>
+  </div>
+  <div class="project-card-media">
+    {cover ? <img src={cover} alt={project.coverImage?.alt || `Tela do projeto ${project.title}`} loading="lazy" /> : <ProjectVisual label={project.title} compact={!featured} />}
+  </div>
+</article>
