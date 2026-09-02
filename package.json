@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "check": "astro check"
+    "check": "astro check",
+    "sanity:seed": "sanity dataset import sanity/seed/portfolio.ndjson production --replace"
   },
   "dependencies": {
     "@astrojs/react": "^6.0.4",

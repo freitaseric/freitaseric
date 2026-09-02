@@ -7,7 +7,7 @@ const cmsConfig = { projectId: sanityProjectId, dataset: sanityDataset };
   if (config.projectId) {
     const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;" })[char]);
     const query = encodeURIComponent(`{
-      "settings": *[_type == "siteSettings"][0]{name,role,heroTitle,heroBody,location,email,aboutTitle,aboutBody},
+      "settings": *[_type == "siteSettings" && _id == "siteSettings"][0]{name,role,heroTitle,heroBody,location,email,aboutTitle,aboutBody},
       "projects": *[_type == "project" && defined(slug.current)] | order(featured desc, year desc, order asc){_id,title,"slug":slug.current,eyebrow,summary,year,status,featured,coverImage{asset->{url},alt}}
     }`);
     const url = `https://${config.projectId}.api.sanity.io/v2026-09-01/data/query/${config.dataset}?query=${query}`;

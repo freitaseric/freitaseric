@@ -1,7 +1,7 @@
 import { fallbackProjects, fallbackSettings, type Project, type SiteSettings } from "../data/fallback";
 import { sanityClient, sanityEnabled } from "./sanity";
 
-const SETTINGS_QUERY = `*[_type == "siteSettings"][0]{
+const SETTINGS_QUERY = `*[_type == "siteSettings" && _id == "siteSettings"][0]{
   name,
   role,
   heroTitle,
