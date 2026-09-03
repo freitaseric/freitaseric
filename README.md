@@ -1,62 +1,86 @@
-# Eric Freitas — Portfólio GovTech
+<div align="center">
 
-Portfólio pessoal de Eric Freitas, com foco profissional em **GovTech** e apresentação de projetos como estudos de caso.
+# Eric Freitas
 
-## Stack
+**Software Developer · GovTech · Full Stack**
 
-- Astro
-- Sanity Studio (CMS em `/admin`)
-- Vercel
-- IBM Plex Sans / IBM Plex Mono
+Construindo software para resolver problemas reais — especialmente onde tecnologia encontra gestão pública, processos e organizações.
 
-## Desenvolvimento
+[![Portfolio](https://img.shields.io/badge/Portfolio-freitaseric.com-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://freitaseric.com)
+[![Email](https://img.shields.io/badge/Email-contato%40freitaseric.com-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@freitaseric.com)
 
-```bash
-npm install
-npm run dev
-```
+</div>
 
-Sem variáveis de ambiente, o site usa o conteúdo de fallback em `src/data/fallback.ts`.
+## Sobre mim
 
-## Ativar o CMS
+- Desenvolvedor de software com foco crescente em **GovTech**.
+- Estudante de **Análise e Desenvolvimento de Sistemas no IFRR**.
+- Experiência prática transformando processos de negócio e rotinas institucionais em sistemas digitais.
+- Interesse especial por arquitetura de software, produtos digitais, automação e sistemas para o setor público.
 
-1. Crie um projeto no Sanity e um dataset público `production`.
-2. Adicione `http://localhost:4321` e `https://freitaseric.com` nas origens CORS do projeto, permitindo credenciais para o Studio.
-3. Na Vercel, configure as variáveis de ambiente:
-   - `PUBLIC_SANITY_PROJECT_ID`
-   - `PUBLIC_SANITY_DATASET` = `production`
-4. Para desenvolvimento local, copie `.env.example` para `.env` e informe o mesmo project ID.
-5. Abra `/admin/`, faça login no Sanity e publique `Informações do site` e os projetos.
+## Tecnologias
 
-### Conteúdo inicial
+### Linguagens & runtimes
 
-O Studio trata `Informações do site` como um documento único e organiza o conteúdo em `Geral` e `Portfólio`.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Para importar novamente os textos iniciais de forma idempotente, autentique o Sanity CLI e execute:
+### Web & aplicações
 
-```bash
-npm run sanity:seed
-```
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
-O comando cria ou substitui somente os dois documentos de `sanity/seed/portfolio.ndjson`: as informações do site e o FUNDERR.
+### Dados, infraestrutura & ferramentas
 
-O frontend usa conteúdo do Sanity quando disponível e mantém o fallback caso o CMS esteja indisponível.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Publicação
+## Projetos em destaque
 
-A Vercel cria previews para pull requests e publica a branch `main` em produção. O arquivo `vercel.json` direciona as rotas internas de `/admin/*` para o Sanity Studio, permitindo abrir ou atualizar diretamente qualquer tela do CMS.
+### [FUNDERR](https://github.com/freitaseric/funderr)
 
-Para refletir alterações do Sanity no HTML estático e no SEO imediatamente, configure um Deploy Hook da Vercel acionado por publicação no dataset `production`.
+Sistema institucional para **elaboração e gestão de projetos de crédito rural**, criado a partir de uma operação real do IATER em Roraima.
 
-## Conteúdo
+`PHP` `SQLite` `Arquitetura Web` `Crédito Rural`
 
-Cada projeto pode ter:
+### Minha Associação
 
-- nome, resumo, ano e status;
-- contexto, problema e solução;
-- descrição da atuação;
-- tecnologias/capacidades;
-- imagem de capa e galeria;
-- destaque e ordenação.
+Plataforma para gestão de **associações e organizações sociais**, com aplicações web, mobile e API.
 
-Projetos não precisam de repositório ou URL pública.
+`TypeScript` `React` `React Native` `Fastify` `PostgreSQL`
+
+> Código privado. O projeto será apresentado por meio de estudo de caso no portfólio.
+
+### [Boletim da Captação](https://github.com/freitaseric/boletim-da-captacao)
+
+Aplicação web para uma newsletter especializada em **captação de recursos, editais e oportunidades**.
+
+`PHP` `Laravel`
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=freitaseric&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" alt="GitHub stats de Eric Freitas" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Software, processos e produtos digitais que precisam funcionar no mundo real.**
+
+</div>
