@@ -20,6 +20,12 @@ Construindo software para resolver problemas reais — especialmente onde tecnol
 
 ## Tecnologias
 
+<div align="center">
+  
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=freitaseric&layout=compact&langs_count=4&theme=react&hide_title=true&hide_border=true" alt="GitHub stats de Eric Freitas" />
+
+</div>
+
 ### Linguagens & runtimes
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -62,7 +68,7 @@ Aplicação web para uma newsletter especializada em **captação de recursos, e
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=freitaseric&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" alt="GitHub stats de Eric Freitas" />
+<img height="165" src="https://github-readme-stats-extended.vercel.app/api?username=freitaseric&show_icons=true&hide_title=true&hide_border=true&theme=react&include_all_commits=true&rank_icon=github" alt="GitHub stats de Eric Freitas" />
 
 </div>
 
