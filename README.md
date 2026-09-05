@@ -55,14 +55,6 @@ Sistema institucional para **elaboração e gestão de projetos de crédito rura
 
 `PHP` `SQLite` `Arquitetura Web` `Crédito Rural`
 
-### Minha Associação
-
-Plataforma para gestão de **associações e organizações sociais**, com aplicações web, mobile e API.
-
-`TypeScript` `React` `React Native` `Fastify` `PostgreSQL`
-
-> Código privado. O projeto será apresentado por meio de estudo de caso no portfólio.
-
 ### [Boletim da Captação](https://github.com/freitaseric/boletim-da-captacao)
 
 Aplicação web para uma newsletter especializada em **captação de recursos, editais e oportunidades**.
