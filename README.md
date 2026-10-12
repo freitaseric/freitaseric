@@ -22,7 +22,7 @@ Construindo software para resolver problemas reais — especialmente onde tecnol
 
 <div align="center">
   
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=freitaseric&layout=compact&langs_count=4&theme=react&hide_title=true&hide_border=true" alt="GitHub stats de Eric Freitas" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=freitaseric&layout=compact&langs_count=4&theme=react&hide_title=true&hide_border=true&exclude_repo=funderr" alt="GitHub stats de Eric Freitas" />
 
 </div>
 
