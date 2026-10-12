@@ -50,20 +50,6 @@ Construindo software para resolver problemas reais — especialmente onde tecnol
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Projetos em destaque
-
-### [FUNDERR](https://github.com/freitaseric/funderr)
-
-Sistema institucional para **elaboração e gestão de projetos de crédito rural**, criado a partir de uma operação real do IATER em Roraima.
-
-`PHP` `SQLite` `Arquitetura Web` `Crédito Rural`
-
-### [Boletim da Captação](https://github.com/freitaseric/boletim-da-captacao)
-
-Aplicação web para uma newsletter especializada em **captação de recursos, editais e oportunidades**.
-
-`PHP` `Laravel`
-
 ## GitHub
 
 <div align="center">
