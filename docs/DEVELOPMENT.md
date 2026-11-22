@@ -1,13 +1,13 @@
-# Desenvolvimento do Portfólio GovTech
+# Desenvolvimento do Portfólio
 
-Documentação técnica do portfólio pessoal de Eric Freitas, com foco profissional em **GovTech** e apresentação de projetos como estudos de caso.
+Documentação técnica do portfólio pessoal de Eric Freitas, com foco em produtos de software próprios, apresentados com o problema, as decisões e o estado de cada projeto.
 
 ## Stack
 
 - Astro
 - Sanity Studio (CMS em `/admin`)
 - Vercel
-- IBM Plex Sans / IBM Plex Mono
+- Instrument Serif, Inter e JetBrains Mono (tema escuro e claro automáticos)
 
 ## Desenvolvimento
 
@@ -38,7 +38,7 @@ Para importar novamente os textos iniciais de forma idempotente, autentique o Sa
 npm run sanity:seed
 ```
 
-O comando cria ou substitui somente os dois documentos de `sanity/seed/portfolio.ndjson`: as informações do site e o FUNDERR.
+O comando cria ou substitui somente os documentos de `sanity/seed/portfolio.ndjson`: as informações do site e os projetos MacIsland, discordkit e Aresta.
 
 O frontend usa conteúdo do Sanity quando disponível e mantém o fallback caso o CMS esteja indisponível.
 
@@ -54,7 +54,8 @@ Cada projeto pode ter:
 
 - nome, resumo, ano e status;
 - contexto, problema e solução;
-- descrição da atuação;
+- descrição da atuação e o que foi decidido, revisado e testado;
+- link do repositório;
 - tecnologias/capacidades;
 - imagem de capa e galeria;
 - destaque e ordenação.

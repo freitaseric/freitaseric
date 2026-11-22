@@ -26,6 +26,8 @@ const PROJECTS_QUERY = `*[_type == "project" && defined(slug.current)] | order(f
   problem,
   solution,
   role,
+  decisions,
+  repoUrl,
   highlights,
   technologies,
   featured,

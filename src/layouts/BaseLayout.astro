@@ -7,8 +7,8 @@ interface Props {
 }
 
 const {
-  title = "Eric Freitas — GovTech",
-  description = "Desenvolvedor de software focado em GovTech, produtos digitais e melhoria de processos públicos.",
+  title = "Eric Freitas — Produtos de software",
+  description = "Desenvolvedor de software construindo produtos próprios: MacIsland, discordkit e outros em desenvolvimento.",
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site);
@@ -21,12 +21,13 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#f4f6f7" />
+    <meta name="theme-color" content="#0b0c0f" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#f6f3ed" media="(prefers-color-scheme: light)" />
     <link rel="canonical" href={canonical} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"
       rel="stylesheet"
     />
     <title>{title}</title>

@@ -5,7 +5,7 @@ interface Props {
 }
 const { label = "Produto digital", compact = false } = Astro.props;
 ---
-<div class:list={["product-visual", compact && "is-compact"]} aria-label={`Ilustração de interface — ${label}`} role="img">
+<div class:list={["product-visual", compact && "is-compact"]} aria-hidden="true">
   <div class="visual-bar">
     <span></span><span></span><span></span>
     <small>{label}</small>
