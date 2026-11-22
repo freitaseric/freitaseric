@@ -6,8 +6,7 @@
 
 Estou desenvolvendo produtos de software com o objetivo de abrir uma empresa e distribuí-los.
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-freitaseric.com-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://freitaseric.com)
-[![E-mail](https://img.shields.io/badge/E--mail-contato%40freitaseric.com-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@freitaseric.com)
+[![E-mail](https://img.shields.io/badge/E--mail-ericfreitas371%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericfreitas371@gmail.com)
 
 </div>
 
@@ -55,4 +54,4 @@ MacIsland e discordkit foram feitos com apoio de IA.
 
 ## Contato
 
-[contato@freitaseric.com](mailto:contato@freitaseric.com) · [freitaseric.com](https://freitaseric.com)
+[ericfreitas371@gmail.com](mailto:ericfreitas371@gmail.com)
